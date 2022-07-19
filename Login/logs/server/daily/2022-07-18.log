@@ -1,0 +1,979 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:48:03.575Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:48:06.251Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:49:19.232Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:49:21.635Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:49:55.538Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:49:57.973Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:51:48.332Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:51:50.921Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:52:05.226Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:52:07.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:52:30.381Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:52:32.902Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:53:06.035Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:53:08.744Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:53:25.687Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:53:27.797Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:56:57.163Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:56:57.183Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:58:14.230Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:58:14.268Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:58:30.825Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:58:30.851Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:58:49.007Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:58:49.058Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:59:16.812Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:59:16.836Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T02:59:43.652Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T02:59:43.673Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:02:02.952Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:02:23.380Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:02:23.448Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:03:01.934Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:06:08.794Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:06:08.837Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:06:14.914Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:06:14.936Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:07:03.713Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:07:03.747Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:07:08.001Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:07:08.021Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:07:59.874Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:09:20.436Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:10:05.541Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:11:14.276Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:11:14.309Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:11:30.382Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" length must be at least 4 characters long 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:11:57.729Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is not allowed 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:12:05.683Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:14:22.105Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:15:24.415Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:15:24.438Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:15:25.387Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:15:59.090Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:15:59.114Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:16:17.566Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:16:17.586Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:17:32.965Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:17:32.987Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:17:52.617Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:17:52.671Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:19:45.051Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:19:45.101Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:20:13.663Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:20:13.728Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:20:39.964Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:20:40.011Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:40:19.883Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:40:19.903Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:40:42.438Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:40:42.498Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/register/register 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-07-18T03:45:06.007Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:45:38.672Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:45:38.694Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:46:03.381Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:46:03.428Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:46:24.661Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:46:24.738Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:48:19.352Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:48:19.409Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:50:00.777Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:50:00.808Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:50:26.027Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:50:26.051Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:51:29.798Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:51:29.857Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:51:52.267Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:51:52.353Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:52:09.587Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:52:09.649Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:52:25.257Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:52:25.291Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:53:02.637Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:54:40.743Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:54:40.808Z"}
+error: 
+    status - 500 
+    message - ValidationError: "password" length must be at least 4 characters long 
+    url - /api/v1/register 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T03:54:46.918Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:55:50.546Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:55:50.584Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T03:56:25.473Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T03:56:25.497Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:00:19.596Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:00:19.618Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token , in JSON at position 112
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T04:01:26.581Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:02:54.679Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:02:54.729Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:02:59.228Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:02:59.263Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:03:45.400Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:03:45.430Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:04:03.470Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:04:03.514Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:04:15.071Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:04:15.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:05:30.525Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:05:30.569Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:05:52.391Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:05:52.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:06:39.996Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:06:40.021Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:07:04.929Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:07:04.981Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:08:46.196Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:08:46.216Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:09:01.093Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:09:01.116Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:09:42.507Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:09:42.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:09:54.345Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:09:54.383Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:10:12.998Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:10:13.023Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:10:45.109Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:10:45.148Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:16:00.209Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:16:00.233Z"}
+error: 
+    status - 500 
+    message - ReferenceError: req is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:10:15)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T04:16:01.820Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:16:20.695Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:16:20.718Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:16:45.904Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:16:45.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:16:55.833Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:16:55.859Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:17:51.879Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:17:51.904Z"}
+error: 
+    status - 500 
+    message - ReferenceError: req is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:6:44)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T04:17:52.493Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:18:19.605Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:18:19.632Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'body')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:6:48)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T04:18:21.044Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:18:49.202Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:18:49.260Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:19:02.244Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:19:02.303Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:19:22.895Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:19:22.916Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T04:19:38.481Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T04:19:38.535Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:09:44.226Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:09:44.547Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:10:26.604Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:10:26.624Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:11:44.077Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:11:44.112Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:12:22.583Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:12:22.617Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:12:37.949Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:12:37.973Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:11:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:12:41.223Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:13:15.238Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:13:15.279Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:13:20.796Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:13:20.818Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:10:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:13:21.676Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:14:15.499Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:14:15.520Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:17:24.737Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:17:24.763Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:6:48)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:17:26.668Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:17:43.267Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:17:43.292Z"}
+error: 
+    status - 500 
+    message - ReferenceError: userdata is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:6:43)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:17:46.503Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:18:10.681Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:18:10.710Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading '0')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:6:47)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:18:11.956Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading '0')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:6:47)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:18:16.208Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:19:15.699Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:19:15.723Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:19:48.669Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:19:48.696Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:21:40.405Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:21:40.448Z"}
+error: 
+    status - 500 
+    message - ReferenceError: schema is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:8:43)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:7:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:21:43.159Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:22:19.903Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:22:19.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:22:33.163Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:22:33.227Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:22:59.630Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:22:59.680Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:23:30.728Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:23:30.755Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:24:36.980Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:24:37.007Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:12:37)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:24:38.206Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:24:52.825Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:24:52.847Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:25:08.941Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:25:08.965Z"}
+error: 
+    status - 500 
+    message - ReferenceError: email is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:12:23)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:25:09.930Z"}
+error: 
+    status - 500 
+    message - ReferenceError: email is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\Registration\Login\src\services\/user.service.js:12:23)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\Registration\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T07:25:23.964Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:25:32.828Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:25:32.853Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:26:14.352Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:26:14.384Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T07:26:18.564Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T07:26:18.626Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:34:55.897Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:34:55.936Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:49:00.819Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:49:00.880Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:49:08.021Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:49:08.042Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:49:56.382Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:49:56.405Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:51:39.392Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:51:39.416Z"}
+error: 
+    status - 500 
+    message - ReferenceError: model is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:8:24)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T08:51:41.091Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:55:08.721Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:55:08.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:57:51.907Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:57:51.927Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:58:39.197Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:58:39.272Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T08:58:59.939Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T08:58:59.966Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:10:37)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T08:59:14.335Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:00:57.962Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:00:57.990Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:00:59.738Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:02:00.747Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:02:00.772Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:02:01.718Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:06:01.161Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:06:01.183Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:06:01.776Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:06:18.859Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:06:18.887Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:06:30.579Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:06:30.603Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:06:30.819Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:10:17.102Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:10:17.125Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:10:18.776Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:13:02.060Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:13:02.102Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:3:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:3:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:13:11.996Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:3:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:3:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:13:41.878Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:14:10.384Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:14:10.426Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:3:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:3:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:17:02.119Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:17:34.222Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:17:34.247Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:19:55.768Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:19:55.790Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:20:55.770Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:20:55.819Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:21:15.444Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:21:15.466Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:23:04.058Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:23:04.099Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:24:00.154Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:24:00.188Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:24:34.046Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:24:34.068Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:25:04.426Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:25:04.448Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:25:42.600Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:25:42.651Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:27:12.344Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:27:12.399Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:29:23.676Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:29:23.734Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:30:07.490Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:30:07.520Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:30:33.534Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:30:33.569Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'body')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:45)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:30:36.506Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:31:23.984Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:31:24.010Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:45)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:31:25.324Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:31:42.556Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:31:42.608Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:48)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:31:47.134Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:32:53.692Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:32:53.715Z"}
+error: 
+    status - 500 
+    message - ReferenceError: email is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T09:32:54.832Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T09:33:16.955Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T09:33:16.976Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:03:20.136Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:03:20.159Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:5:48)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.getAllUsers (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:4:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:12:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-18T10:03:25.299Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:07:51.144Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:07:51.183Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:08:08.940Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:08:08.980Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:08:36.166Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:08:36.197Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:09:03.756Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:09:03.798Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:09:29.416Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:09:29.444Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:10:01.197Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:10:01.236Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:10:24.050Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:10:24.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:12:04.700Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:12:04.722Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:12:34.878Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:12:34.908Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:13:27.244Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:13:27.281Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:13:40.416Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:13:40.446Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:13:49.618Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:13:49.645Z"}
+error: 
+    status - 500 
+    message - Error:  User is not exist
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:9:11)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-18T10:13:51.439Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:18:02.500Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:18:02.527Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-18T10:18:11.883Z"}
+info: Connected to the database. {"timestamp":"2022-07-18T10:18:11.947Z"}

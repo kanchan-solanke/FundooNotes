@@ -1,0 +1,24 @@
+info: ::1 - - [19/Jul/2022:01:47:07 +0000] "POST /api/v1/users/login HTTP/1.1" 200 267 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:01:58:25 +0000] "POST /api/v1/users/login HTTP/1.1" 200 267 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:01:59:27 +0000] "POST /api/v1/users HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:03:36 +0000] "POST /api/v1/users HTTP/1.1" 400 59 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:04:13 +0000] "POST /api/v1/users HTTP/1.1" 400 147 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:05:06 +0000] "POST /api/v1/users HTTP/1.1" 400 147 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:06:51 +0000] "POST /api/v1/users HTTP/1.1" 400 147 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:07:01 +0000] "POST /api/v1/users HTTP/1.1" 400 53 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:07:15 +0000] "POST /api/v1/users HTTP/1.1" 400 147 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:09:38 +0000] "POST /api/v1/users HTTP/1.1" 500 60 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:10:02 +0000] "POST /api/v1/users HTTP/1.1" 500 60 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [19/Jul/2022:02:10:27 +0000] "POST /api/v1/users HTTP/1.1" 400 53 "-" "PostmanRuntime/7.29.0"
+

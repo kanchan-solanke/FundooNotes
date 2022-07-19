@@ -1,0 +1,68 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T01:36:33.161Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T01:36:33.256Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T01:57:41.310Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T01:57:41.328Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: practice.users index: email_1 dup key: { email: "manisha@gmail.com" } 
+      url - /api/v1/users 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-07-19T01:59:27.830Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-19T01:59:27.849Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:01:26.931Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:01:26.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:02:04.285Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:02:04.303Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:02:58.992Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:02:59.014Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:03:27.406Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:03:27.424Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:04:11.754Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:04:11.774Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:04:49.986Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:04:50.007Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:05:00.979Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:05:00.995Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:06:04.842Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:06:04.866Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:06:19.690Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:06:19.706Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-07-19T02:06:29.040Z"}
+info: Connected to the database. {"timestamp":"2022-07-19T02:06:29.062Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-19T02:09:38.608Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-19T02:10:02.989Z"}
