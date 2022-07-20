@@ -1,0 +1,173 @@
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:18:32.743Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:18:32.771Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-20T00:20:34.568Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:26:52.482Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:26:52.500Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-20T00:26:59.569Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:28:42.553Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:28:42.571Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:29:07.308Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:29:07.325Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-20T00:29:18.790Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:34:24.027Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:34:24.046Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:34:42.081Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:34:42.103Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:36:16.470Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:36:16.486Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:36:54.951Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:36:54.987Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:42:52.370Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:42:52.387Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:45:47.456Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:45:47.479Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:47:41.595Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:47:41.614Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:50:14.407Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:50:14.428Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:51:23.616Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:51:23.637Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T00:55:04.918Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T00:55:04.938Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T01:07:59.995Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T01:08:00.017Z"}
+error: 
+    status - 500 
+    message - TypeError: next is not a function
+    at newUserValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:16:5)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-20T01:29:12.286Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T01:29:42.475Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T01:29:42.496Z"}
+error: 
+    status - 500 
+    message - TypeError: next is not a function
+    at newUserValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:16:5)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-20T01:30:00.317Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T01:30:25.090Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T01:30:25.112Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T01:59:56.347Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T01:59:56.385Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T02:00:00.256Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T02:00:00.286Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T02:36:45.019Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T02:36:45.048Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T03:27:02.581Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T03:27:02.606Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T03:28:44.990Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T03:28:45.006Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T03:29:21.841Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T03:29:21.863Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T03:29:39.574Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T03:29:39.594Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T03:30:01.926Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T03:30:01.949Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T03:33:28.057Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T03:33:28.078Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T05:47:46.839Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T05:47:46.874Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T05:48:02.882Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T05:48:02.927Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T05:50:11.436Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T05:50:11.485Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T05:52:41.077Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T05:52:41.101Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T05:58:03.893Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T05:58:03.932Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:01:21.384Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:01:21.425Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:05:43.219Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:05:43.242Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:05:54.167Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:05:54.202Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:06:52.501Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:06:52.556Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:09:08.462Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:09:08.507Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:11:52.791Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:11:52.825Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:12:33.526Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:12:33.590Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:13:15.905Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:13:15.968Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:14:05.402Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:14:05.452Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:35:42.385Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:35:42.438Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:38:25.582Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:38:25.610Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T06:38:37.582Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T06:38:37.607Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T07:43:35.011Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T07:43:35.077Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T07:45:59.213Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T07:45:59.235Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T07:47:22.132Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T07:47:22.190Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T07:49:41.088Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T07:49:51.638Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T07:50:00.062Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T07:50:00.091Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T07:50:03.308Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T07:50:03.332Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T12:00:10.934Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T12:00:11.010Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T12:15:44.343Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T12:16:03.853Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T12:16:03.925Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T12:16:15.749Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T12:16:15.810Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T12:19:29.591Z"}
