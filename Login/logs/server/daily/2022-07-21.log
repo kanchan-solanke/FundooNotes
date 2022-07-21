@@ -1,0 +1,346 @@
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T20:59:32.599Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T20:59:32.666Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:17:55.281Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:17:55.306Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:19:36.509Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:19:36.528Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:20:21.447Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:20:21.472Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:21:01.836Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:21:01.867Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:21:23.489Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:21:23.517Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:21:36.192Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:21:36.216Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:21:53.263Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:21:53.283Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:22:09.644Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:22:09.674Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:23:34.081Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:23:34.108Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:23:38.641Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:23:38.666Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:24:09.483Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:24:09.510Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:24:58.814Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:24:58.838Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:27:05.283Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:27:05.319Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:27:19.145Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:27:19.176Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:28:30.260Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:28:30.288Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:29:01.854Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:29:01.880Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:29:24.483Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:29:24.513Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:29:58.164Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:29:58.192Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:31:45.192Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:31:45.218Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:33:23.994Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:33:24.025Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:36:09.161Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:36:09.206Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:37:00.007Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:37:00.066Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:37:24.361Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:37:24.393Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:37:37.631Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:37:37.655Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:38:27.587Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:38:27.625Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:39:03.244Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:39:03.262Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:39:44.053Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:39:44.079Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:40:01.172Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:40:01.211Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:41:50.722Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:41:50.757Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:42:03.290Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:42:03.308Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:42:37.739Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:42:37.758Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:42:58.528Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:42:58.549Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:44:08.143Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:44:08.182Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:44:55.080Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:44:55.116Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:45:44.814Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:45:44.835Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:46:58.627Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:46:58.644Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:47:54.084Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:47:54.105Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:48:31.890Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:48:31.910Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:49:35.654Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:49:35.717Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:50:11.021Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:50:11.049Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:52:17.429Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:52:17.457Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:53:45.023Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:53:45.044Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:54:25.733Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:54:25.759Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:55:51.333Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:55:51.359Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:57:21.064Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:57:21.091Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:58:17.668Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:58:17.697Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:58:51.997Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:58:52.026Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:59:02.307Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:59:02.330Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T21:59:39.481Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T21:59:39.532Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:00:22.598Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:00:22.621Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:00:28.322Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:00:28.371Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:00:59.900Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:00:59.917Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:01:09.395Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:01:09.420Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:01:35.715Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:01:35.751Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:03:41.693Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:03:41.717Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:08:16.486Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:08:16.510Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:09:12.952Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:09:12.982Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:09:51.050Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:09:51.075Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:10:04.779Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:10:04.806Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:13:49.931Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:13:49.952Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:14:50.628Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:14:50.669Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:19:03.945Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:19:03.978Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-20T22:20:24.037Z"}
+info: Connected to the database. {"timestamp":"2022-07-20T22:20:24.061Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:09:08.433Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:09:08.455Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:09:55.957Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:09:55.976Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:10:46.974Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:10:46.991Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:14:37.730Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:14:37.748Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:15:54.542Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:15:54.562Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:20:02.079Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:20:02.103Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:20:03.972Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:20:03.992Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:21:07.208Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:21:07.228Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:21:55.708Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:21:55.731Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:22:05.884Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:22:05.905Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:25:40.679Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:25:40.698Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:26:17.391Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:26:17.408Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:26:25.595Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:26:25.612Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:27:22.305Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:27:22.322Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:27:40.744Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:27:40.761Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:29:03.799Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:29:03.820Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:29:48.774Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:29:48.793Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:29:54.788Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/:62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:30:32.673Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:31:19.298Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:31:19.317Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:31:26.239Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:32:28.880Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:34:25.312Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:34:58.797Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:34:58.816Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:35:04.177Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 4 characters long 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:47:16.406Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:57:46.208Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:57:46.231Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T01:59:31.146Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T01:59:31.167Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T02:26:39.675Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T02:26:39.694Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T02:26:42.883Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T02:27:21.931Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T02:27:21.953Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T09:24:03.384Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T09:24:03.457Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T09:27:07.704Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T09:27:07.765Z"}

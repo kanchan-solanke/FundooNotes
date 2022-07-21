@@ -1279,3 +1279,190 @@ ReferenceError: noteRoute is not defined
     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
     at node:internal/main/run_main_module:17:47 {"date":"Wed Jul 20 2022 19:19:29 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":127509},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19005572,"external":29135136,"heapTotal":78909440,"heapUsed":54278344,"rss":113389568},"pid":9276,"uid":null,"version":"v16.14.2"},"stack":"ReferenceError: noteRoute is not defined\n    at routes (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\routes\\/index.js:15:23)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at node:internal/main/run_main_module:17:47","timestamp":"2022-07-20T12:19:29.495Z","trace":[{"column":23,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\routes\\/index.js","function":"routes","line":15,"method":null,"native":false},{"column":32,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":17,"method":null,"native":false}]}
+error: uncaughtException: this.any is not a function
+TypeError: this.any is not a function
+    at model.root.<computed> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@hapi\joi\lib\index.js:67:25)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2305:62
+    at Array.forEach (<anonymous>)
+    at _evaluateRequiredFunctions (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2301:51)
+    at _getPathsToValidate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2317:3)
+    at model.Document.$__validate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2491:23)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\kareem\index.js:370:33
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Wed Jul 20 2022 23:13:13 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":141533},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18430658,"external":20077293,"heapTotal":49811456,"heapUsed":45119216,"rss":83296256},"pid":16792,"uid":null,"version":"v16.14.2"},"stack":"TypeError: this.any is not a function\n    at model.root.<computed> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@hapi\\joi\\lib\\index.js:67:25)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2305:62\n    at Array.forEach (<anonymous>)\n    at _evaluateRequiredFunctions (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2301:51)\n    at _getPathsToValidate (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2317:3)\n    at model.Document.$__validate (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2491:23)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\kareem\\index.js:370:33\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-07-20T16:13:13.435Z","trace":[{"column":25,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@hapi\\joi\\lib\\index.js","function":"model.root.<computed>","line":67,"method":"<computed>","native":false},{"column":62,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":null,"line":2305,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":false},{"column":51,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"_evaluateRequiredFunctions","line":2301,"method":null,"native":false},{"column":3,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"_getPathsToValidate","line":2317,"method":null,"native":false},{"column":23,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"model.Document.$__validate","line":2491,"method":"$__validate","native":false},{"column":33,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\kareem\\index.js","function":null,"line":370,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: uncaughtException: res is not defined
+ReferenceError: res is not defined
+    at _callee3$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/notes.controller.js:55:11)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.throw (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _throw (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:29:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) {"date":"Thu Jul 21 2022 04:20:29 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":159970},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19437472,"external":24204689,"heapTotal":83705856,"heapUsed":55352968,"rss":118923264},"pid":14960,"uid":null,"version":"v16.14.2"},"stack":"ReferenceError: res is not defined\n    at _callee3$ (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\controllers\\/notes.controller.js:55:11)\n    at tryCatch (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:86:17)\n    at Generator._invoke (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:66:24)\n    at Generator.throw (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:117:21)\n    at asyncGeneratorStep (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _throw (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:29:9)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","timestamp":"2022-07-20T21:20:30.065Z","trace":[{"column":11,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\controllers\\/notes.controller.js","function":"_callee3$","line":55,"method":null,"native":false},{"column":17,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":86,"method":null,"native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator._invoke","line":66,"method":"_invoke","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.throw","line":117,"method":"throw","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_throw","line":29,"method":null,"native":false},{"column":5,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":96,"method":null,"native":false}]}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:29:54.788Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/:62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:30:32.673Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:31:26.239Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:32:28.880Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:34:25.312Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:376:14)
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:421:3)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12) 
+    url - /api/v1/notes/62d829e63b878c40fc6d6abc 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:35:04.177Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" length must be at least 4 characters long 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-21T01:47:16.406Z"}
+error: 
+    status - 500 
+    message - ReferenceError: HttpStatus is not defined
+    at notesValidator (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\validators\/user.validator.js:27:16)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:175:3) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T02:26:42.883Z"}
