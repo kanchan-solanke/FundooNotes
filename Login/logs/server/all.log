@@ -1791,3 +1791,139 @@ ReferenceError: noteRoute is not defined
     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
     at node:internal/main/run_main_module:17:47 {"date":"Wed Jul 20 2022 19:19:29 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":127509},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19005572,"external":29135136,"heapTotal":78909440,"heapUsed":54278344,"rss":113389568},"pid":9276,"uid":null,"version":"v16.14.2"},"stack":"ReferenceError: noteRoute is not defined\n    at routes (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\routes\\/index.js:15:23)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js:32:32)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at node:internal/main/run_main_module:17:47","timestamp":"2022-07-20T12:19:29.495Z","trace":[{"column":23,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\routes\\/index.js","function":"routes","line":15,"method":null,"native":false},{"column":32,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js","function":null,"line":32,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":17,"method":null,"native":false}]}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T10:17:13.313Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T10:17:13.340Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 93
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/notes 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-21T10:18:07.468Z"}
+error: uncaughtException: this.any is not a function
+TypeError: this.any is not a function
+    at model.root.<computed> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@hapi\joi\lib\index.js:67:25)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2305:62
+    at Array.forEach (<anonymous>)
+    at _evaluateRequiredFunctions (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2301:51)
+    at _getPathsToValidate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2317:3)
+    at model.Document.$__validate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2491:23)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\kareem\index.js:370:33
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Jul 21 2022 17:18:16 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":206636},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18442944,"external":19996542,"heapTotal":51646464,"heapUsed":46483440,"rss":85016576},"pid":16208,"uid":null,"version":"v16.14.2"},"stack":"TypeError: this.any is not a function\n    at model.root.<computed> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@hapi\\joi\\lib\\index.js:67:25)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2305:62\n    at Array.forEach (<anonymous>)\n    at _evaluateRequiredFunctions (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2301:51)\n    at _getPathsToValidate (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2317:3)\n    at model.Document.$__validate (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2491:23)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\kareem\\index.js:370:33\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-07-21T10:18:16.190Z","trace":[{"column":25,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@hapi\\joi\\lib\\index.js","function":"model.root.<computed>","line":67,"method":"<computed>","native":false},{"column":62,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":null,"line":2305,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":false},{"column":51,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"_evaluateRequiredFunctions","line":2301,"method":null,"native":false},{"column":3,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"_getPathsToValidate","line":2317,"method":null,"native":false},{"column":23,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"model.Document.$__validate","line":2491,"method":"$__validate","native":false},{"column":33,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\kareem\\index.js","function":null,"line":370,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T10:40:17.376Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T10:40:17.438Z"}
+error: uncaughtException: this.any is not a function
+TypeError: this.any is not a function
+    at model.root.<computed> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@hapi\joi\lib\index.js:67:25)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2305:62
+    at Array.forEach (<anonymous>)
+    at _evaluateRequiredFunctions (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2301:51)
+    at _getPathsToValidate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2317:3)
+    at model.Document.$__validate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2491:23)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\kareem\index.js:370:33
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Thu Jul 21 2022 17:52:52 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":208713},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18431170,"external":20079181,"heapTotal":49811456,"heapUsed":45186024,"rss":83042304},"pid":6220,"uid":null,"version":"v16.14.2"},"stack":"TypeError: this.any is not a function\n    at model.root.<computed> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@hapi\\joi\\lib\\index.js:67:25)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2305:62\n    at Array.forEach (<anonymous>)\n    at _evaluateRequiredFunctions (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2301:51)\n    at _getPathsToValidate (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2317:3)\n    at model.Document.$__validate (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2491:23)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\kareem\\index.js:370:33\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-07-21T10:52:52.847Z","trace":[{"column":25,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@hapi\\joi\\lib\\index.js","function":"model.root.<computed>","line":67,"method":"<computed>","native":false},{"column":62,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":null,"line":2305,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":false},{"column":51,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"_evaluateRequiredFunctions","line":2301,"method":null,"native":false},{"column":3,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"_getPathsToValidate","line":2317,"method":null,"native":false},{"column":23,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"model.Document.$__validate","line":2491,"method":"$__validate","native":false},{"column":33,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\kareem\\index.js","function":null,"line":370,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T10:53:46.848Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T10:53:46.927Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T10:58:27.250Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T10:58:27.277Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T10:59:18.129Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T10:59:18.153Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T10:59:48.691Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T10:59:48.708Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:01:00.426Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:01:00.444Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:04:11.237Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:04:11.263Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:04:43.926Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:04:43.944Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'Email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62d931ec47ea8a3fecd6b3b7 
+    method - DELETE 
+    IP - ::1
+   {"timestamp":"2022-07-21T11:04:44.439Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'Email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T11:05:05.773Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:05:21.060Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:05:21.081Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\middlewares\/auth.middleware.js:24:28)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-07-21T11:05:21.675Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:05:51.163Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:05:51.197Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:06:41.326Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:06:41.353Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:07:08.802Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:07:08.828Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:07:35.030Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:07:35.055Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:07:49.500Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:07:49.524Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:08:01.228Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:08:01.253Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:13:49.900Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:13:49.932Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:14:38.405Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:14:38.431Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:15:13.632Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:15:13.660Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:16:21.697Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:16:21.717Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:16:52.828Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:16:52.868Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:17:26.252Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:17:26.276Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:17:35.670Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:17:35.697Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:18:31.236Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:18:31.262Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:18:44.970Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:18:44.994Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:19:06.629Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:19:06.671Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:19:15.311Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:19:15.332Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-21T11:20:01.934Z"}
+info: Connected to the database. {"timestamp":"2022-07-21T11:20:01.962Z"}
