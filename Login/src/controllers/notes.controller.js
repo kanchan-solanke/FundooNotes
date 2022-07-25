@@ -107,17 +107,5 @@ export const getAllNotes = async (req,res) => {
       }
   }
   
-  export const isTrash = async(req,res,next) =>{
-      try{
-          const data = await notesService.isTrash(req.params.id,req.body.UserID);
-          res.status(HttpStatus.OK).json({
-              code: HttpStatus.OK,
-              data:data,
-              message: 'Notes Moved to Trash successfully'
-          });
-      }catch (error) {
-          next(error);
-      }
-  }
-
+ 
   
