@@ -42,27 +42,3 @@ export const newUser = async (body) => {
 
 
 
-//findupdate emaild id and update but before update use hash password
-
-export const forgetPassword = async (body) => {
-    const data = await User.findOne({email: body.email })
-    if(data != null){
-      const token = jwt.sign({email:  data.email, id : data.id }, process.env.FORGET_KEY)
-      const send = await mailSend(data.email, token)
-      return send;
-    }
-      else{
-
-  throw new Error('Email is not exist')
-
-    }
-}
-
-export const resetPassword = async (body) => {
-  const saltRounds = 10;
-  const hash = await bcrypt.hash(body.password, saltRounds);
-  console.log('Inside Service',body.password);
-  body.password = hash;
-    const data =  User.findOneAndUpdate({email: body.email, password: body.password},{new :true})
-    return data
-}
