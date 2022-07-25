@@ -1,7 +1,7 @@
 import express from 'express';
 import * as notesController from '../controllers/notes.controller';
 import { notesValidator } from '../validators/notes.validator';
-import {userAuth} from '../middlewares/auth.middleware'
+import { userAuth} from '../middlewares/auth.middleware'
 
 const router = express.Router();
 
@@ -19,5 +19,12 @@ router.delete('/:id',userAuth,notesController.deleteNotes)
 
 //get a single note
 router.get('/:id',userAuth,notesController.getNote)
+
+//is archieve note
+router.put('/:noteid/archieveNotes',userAuth, notesController.archieveNotes)
+
+// deleted notes
+router.put('/:id/isDeleted',userAuth, notesController.isTrash)
+
 
 export default router;

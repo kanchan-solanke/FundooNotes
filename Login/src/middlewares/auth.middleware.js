@@ -28,3 +28,25 @@ export const userAuth = async (req, res, next) => {
       message: `${error}`
   });  }
 };
+
+// reset password
+
+export const resetAuth= async (req, res, next) => {
+  try {
+    let bearerToken = req.params.token;
+    if (!bearerToken)
+      throw {
+        code: HttpStatus.BAD_REQUEST,
+        message: 'Invalid token'
+      };
+
+    const user  = await jwt.verify(bearerToken, process.env.FORGET_KEY);
+    req.body.email = user.email
+    next();
+  } catch (error) {
+    res.status(HttpStatus.UNAUTHORIZED).json({
+      code: HttpStatus.UNAUTHORIZED,
+      message: `${error}`
+  });  }
+};
+

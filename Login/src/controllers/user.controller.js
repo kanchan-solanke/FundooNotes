@@ -1,5 +1,5 @@
 import HttpStatus from 'http-status-codes';
-import * as UserService from '../services/user.service';
+import * as UserService from '../services/user.service'
 
 export const userlogin = async (req, res) => {
   try {
@@ -34,3 +34,31 @@ export const newUser = async (req, res) => {
   }
 };
 
+export const forgetPassword = async (req, res) => {
+  try {
+    const data = await UserService.forgetPassword(req.body);
+    res.status(HttpStatus.OK).json({
+      code: HttpStatus.OK,
+      data: data,
+      message: 'Email sent successfully'
+    });
+  } catch (error) {
+    res.status(HttpStatus.NOT_FOUND).json({
+      code: HttpStatus.NOT_FOUND,
+      message: 'email not found',
+    });
+  }
+};
+
+export const resetPassword = async(req,res,next) => {
+try{
+  const data = await UserService.resetPassword(req.body)
+  res.status(HttpStatus.OK).json({
+    code: HttpStatus.OK,
+    data:data,
+    message: 'reset password'
+});
+}catch (error) {
+next(error);
+}
+};

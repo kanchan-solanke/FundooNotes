@@ -1,0 +1,289 @@
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T09:51:40.572Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T09:51:40.733Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token " in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T10:58:11.133Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token " in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T11:00:47.819Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:11:00.950Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:11:00.983Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:11:36.230Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:11:36.261Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:12:32.109Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:12:32.138Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:14:11.038Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:14:11.065Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:14:28.908Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:14:28.928Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:14:44.275Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:14:44.316Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:14:51.404Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:14:51.439Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:15:27.025Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:15:27.049Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:18:28.862Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:18:28.892Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:19:12.831Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:19:12.852Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:19:51.372Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:19:51.391Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee8$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/notes.service.js:62:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.forgetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/notes.service.js:62:28)
+    at _callee8$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/notes.controller.js:126:39)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/mini@gmail.com/forgetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T11:20:11.704Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:20:52.929Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:20:52.950Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee8$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/notes.service.js:62:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.forgetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/notes.service.js:62:28)
+    at _callee8$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/notes.controller.js:126:39)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/mini@gmail.com/forgetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T11:20:57.109Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee8$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/notes.service.js:62:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.forgetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/notes.service.js:62:28)
+    at _callee8$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/notes.controller.js:126:39)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/mini@gmail.com/forgetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T11:20:59.081Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T11:22:17.959Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T11:22:17.978Z"}
+error: 
+    status - 500 
+    message - ReferenceError: User is not defined
+    at _callee8$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/notes.service.js:62:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.forgetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/notes.service.js:62:28)
+    at _callee8$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/notes.controller.js:126:39)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/notes/mini@gmail.com/forgetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T11:22:19.518Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:05:57.282Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:05:57.328Z"}
+error: 
+      status - 11000
+      message - Plan executor error during findAndModify :: caused by :: E11000 duplicate key error collection: practice.users index: email_1 dup key: { email: "mini@gmail.com" } 
+      url - /api/v1/notes/mini@gmail.com/forgetPassword 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-07-25T12:05:57.798Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:371:5)
+    at ServerResponse.writeHead (node:_http_server:274:11)
+    at ServerResponse.writeHead (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:265:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/notes/mini@gmail.com/forgetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T12:05:57.820Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:07:44.280Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:07:44.322Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:08:14.350Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:08:14.376Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:16:36.023Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:16:36.074Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:17:31.511Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:17:31.561Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 29
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/notes/mini@gmail.com/forgetPassword 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T12:23:25.084Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:25:25.616Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:25:25.639Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:30:24.301Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:30:24.334Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:31:21.805Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:31:21.825Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:32:40.568Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:32:40.605Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:40:02.400Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:40:02.429Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:44:21.472Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:44:21.507Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:45:21.443Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:45:21.478Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:46:07.122Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:46:07.166Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:47:44.107Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:47:44.134Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:48:58.611Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:48:58.631Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:51:23.349Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:51:23.371Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T12:52:40.854Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T12:52:40.880Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T13:08:59.254Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T13:08:59.312Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:08:22.030Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:08:22.062Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:08:22.268Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:08:49.039Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:08:49.080Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:30:31.454Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:30:31.508Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:30:45.892Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:30:45.918Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:31:34.315Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:31:34.343Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:34:12.435Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:34:12.461Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:34:36.934Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:34:36.987Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:35:55.546Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:35:55.589Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:39:52.366Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:39:52.394Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:41:04.867Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:41:04.894Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T14:43:55.149Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T14:43:55.200Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:03:06.094Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:03:06.109Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:10:00.104Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:10:00.135Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:12:28.163Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:12:28.181Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:12:45.292Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:12:45.307Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:16:10.467Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:16:10.482Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:17:34.044Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:17:34.063Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:20:38.838Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:20:38.860Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:22:51.410Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:22:51.424Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:23:22.450Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:23:22.467Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:26:42.362Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:26:42.380Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:27:38.957Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:27:38.973Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T15:28:13.696Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T15:28:13.713Z"}

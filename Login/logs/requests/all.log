@@ -1010,3 +1010,241 @@ info: ::1 - - [21/Jul/2022:11:19:38 +0000] "GET /api/v1/notes HTTP/1.1" 200 984 
 
 info: ::1 - - [21/Jul/2022:11:19:46 +0000] "GET /api/v1/notes HTTP/1.1" 200 984 "-" "PostmanRuntime/7.29.2"
 
+info: ::1 - - [22/Jul/2022:01:15:05 +0000] "PUT /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes HTTP/1.1" 500 78 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Jul/2022:01:16:29 +0000] "PUT /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes HTTP/1.1" 500 159 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Jul/2022:01:17:26 +0000] "PUT /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes HTTP/1.1" 500 167 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Jul/2022:01:18:43 +0000] "PUT /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes HTTP/1.1" 500 167 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Jul/2022:01:21:29 +0000] "PUT /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes HTTP/1.1" 202 316 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Jul/2022:01:21:55 +0000] "PUT /api/v1/notes/62d9233d4ae0812ee4a2c4d4/isDeleted HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [22/Jul/2022:01:22:05 +0000] "DELETE /api/v1/notes/62d9233d4ae0812ee4a2c4d4/isDeleted HTTP/1.1" 200 339 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:52:32 +0000] "POST /api/v1/notes/projectg659@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:53:05 +0000] "GET /api/v1/notes HTTP/1.1" 200 434 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:53:20 +0000] "GET /api/v1/user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:53:23 +0000] "GET /api/v1/users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:53:58 +0000] "GET /api/v1/notes HTTP/1.1" 200 434 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:54:05 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:54:10 +0000] "GET /api/v1/users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:54:58 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:55:21 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:09:55:34 +0000] "POST /api/v1/users/login HTTP/1.1" 400 50 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:04:05 +0000] "POST /api/v1/users/login HTTP/1.1" 400 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:04:45 +0000] "POST /api/v1/users/login HTTP/1.1" 400 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:04:47 +0000] "POST /api/v1/users/login HTTP/1.1" 400 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:07:47 +0000] "POST /api/v1/users/ HTTP/1.1" 201 314 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:07:58 +0000] "POST /api/v1/users/login HTTP/1.1" 200 265 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:08:28 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:11:43 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:11:50 +0000] "POST /api/v1/users/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:11:52 +0000] "POST /api/v1/users/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:12:10 +0000] "POST /api/v1/users/email/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:13:08 +0000] "POST /api/v1/users/62de79832e762221cc969022/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:13:16 +0000] "POST /api/v1/users/62de79832e762221cc969022/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:13:44 +0000] "POST /api/v1/users/62de79832e762221cc969022/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:13:46 +0000] "POST /api/v1/users/62de79832e762221cc969022/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:14:18 +0000] "POST /api/v1/users/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:14:29 +0000] "POST /api/v1/users/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:14:34 +0000] "POST /api/v1/usersmini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:14:53 +0000] "GET /api/v1/usersmini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:15:12 +0000] "GET /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:15:28 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:19:33 +0000] "POST /api/v1/notes/mini@gmail.com/resetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:19:51 +0000] "POST /api/v1/notes/mini@gmail.com/resetPassword HTTP/1.1" 401 40 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:20:11 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 500 54 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:20:57 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 500 54 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:20:59 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 500 54 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:11:22:19 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 500 54 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:05:57 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:08:19 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 247 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:16:56 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:17:38 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:19:24 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:19:59 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:20:54 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:21:30 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:22:08 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:22:56 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:23:31 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:25:09 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:25:28 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:29:47 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:30:07 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:30:24 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:30:27 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 200 286 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:31:23 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:31:27 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:31:33 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:31:46 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:32:45 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:40:16 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:40:17 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:40:58 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:41:09 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:45:25 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:45:32 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:45:41 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:12:51:27 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+error: uncaughtException: listen EADDRINUSE: address already in use :::4000
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1330:16)
+    at listenInCluster (node:net:1378:12)
+    at Server.listen (node:net:1465:7)
+    at Function.listen (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\/index.js:38:5)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._compile (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.newLoader [as .js] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\node\lib\_babel-node.js:176:21)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Mon Jul 25 2022 21:08:22 GMT+0700 (Indochina Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":4000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":566042},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19058932,"external":45352432,"heapTotal":120901632,"heapUsed":89894608,"rss":156901376},"pid":11708,"uid":null,"version":"v16.14.2"},"stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (node:net:1330:16)\n    at listenInCluster (node:net:1378:12)\n    at Server.listen (node:net:1465:7)\n    at Function.listen (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js:38:5)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1330,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1378,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1465,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js","function":null,"line":38,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+info: ::1 - - [25/Jul/2022:14:09:15 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:26:29 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:26:33 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:28:56 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:29:27 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:30:58 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:31:09 +0000] "GET /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:31:39 +0000] "POST /api/v1/notes/mini@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:32:26 +0000] "POST /api/v1/users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:32:33 +0000] "POST /api/v1/user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:34:59 +0000] "POST /api/v1/users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:35:14 +0000] "POST /api/v1/users/kanchanssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:35:20 +0000] "POST /api/v1/users/kanchanssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:35:59 +0000] "POST /api/v1/users/kanchanssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:37:36 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:37:40 +0000] "POST /api/v1 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:38:44 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:41:05 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:41:10 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:41:31 +0000] "POST /api/v1/users/kanchanssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:41:47 +0000] "POST /api/v1/users/ HTTP/1.1" 400 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:42:48 +0000] "POST /api/v1/users/ HTTP/1.1" 400 68 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:14:44:00 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:03:07 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:03:10 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:10:03 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:10:56 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:12:45 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:12:47 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:16:11 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:16:12 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:16:13 +0000] "POST /api/v1/users/ HTTP/1.1" 400 84 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:20:43 +0000] "POST /api/v1/users/ HTTP/1.1" 400 68 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:22:53 +0000] "POST /api/v1/users/ HTTP/1.1" 400 68 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:22:54 +0000] "POST /api/v1/users/ HTTP/1.1" 400 68 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:27:01 +0000] "POST /api/v1/users/ HTTP/1.1" 400 64 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:15:27:39 +0000] "POST /api/v1/users/ HTTP/1.1" 201 320 "-" "PostmanRuntime/7.29.2"
+

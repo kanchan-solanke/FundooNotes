@@ -1,0 +1,79 @@
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:14:25.567Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:14:25.587Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:14:31.914Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:14:31.936Z"}
+error: 
+    status - 500 
+    message - TypeError: notesService.archiveNotes is not a function
+    at _callee6$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/notes.controller.js:100:43)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at archieveNotes (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/notes.controller.js:98:31)
+    at Layer.handle [as handle_request] (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\express\lib\router\route.js:144:13)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\middlewares\/auth.middleware.js:24:5)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21) 
+    url - /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-22T01:15:05.455Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:16:21.065Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:16:21.089Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: undefined }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-22T01:16:29.117Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:17:22.189Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:17:22.207Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-22T01:17:26.163Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:18:00.487Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:18:00.509Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:18:42.276Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:18:42.294Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62d9233d4ae0812ee4a2c4d4/archieveNotes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-22T01:18:43.436Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:19:42.467Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:19:42.485Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:20:12.735Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:20:12.752Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:21:21.206Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:21:21.230Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:21:23.518Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:21:23.542Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:21:26.636Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:21:26.658Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:22:27.642Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:22:27.661Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T01:22:46.266Z"}
+info: Connected to the database. {"timestamp":"2022-07-22T01:22:46.290Z"}

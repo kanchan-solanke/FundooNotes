@@ -17,11 +17,11 @@ const userSchema = new Schema(
         },
         isArchived: {
             type: Boolean,
-            // required : true,
+            required : true,
         },
         isDeleted: {
             type: Boolean,
-            // required : true,
+            required : true,
         },
         UserID: {
             type: String
