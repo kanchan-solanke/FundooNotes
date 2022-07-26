@@ -1,6 +1,7 @@
 
 import dotenv from 'dotenv';
 dotenv.config();
+
 const nodemailer = require('nodemailer')
 const { google } = require('googleapis')
 
@@ -35,10 +36,10 @@ export async function mailSend(email, token) {
             subject: 'Reset Your Password',
             text: 'Hello from gmail email using API',
             html: '<h1>Hello from gmail email using API</h1>',
-            html: '`<h1>Hello,<br><br>Click on given link to reset your password!</h1><br><h1>Link:><a href="http://localhost:${process.env.APP_PORT}api/v1/${token}">click here</a></h1>`'
+            html: '`<h1>Hello,<br><br>Click on given link to reset your password!</h1><br><h1>Link:><a href="http://localhost:${process.env.APP_PORT}/api/v1/${token}">click here</a></h1>`'
         }
 
-        const result = await transport.mailSend(mailOptions)
+        const result = await transport.sendMail(mailOptions)
         return result
     }
     catch (error) {

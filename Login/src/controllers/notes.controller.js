@@ -7,7 +7,7 @@ import * as notesService from '../services/notes.service';
  * @param {Function} next
  */
 
-export const addNotes = async (req, res, next) => {
+export const addNotes = async (req, res) => {
     try {
         const data = await notesService.addNotes(req.body.UserID);
         res.status(HttpStatus.CREATED).json({

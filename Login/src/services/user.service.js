@@ -2,6 +2,7 @@ import User from '../models/user.model';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import { mailSend } from '../utils/mailsender';
+import { passwordHasher } from '../utils/user.util';
 //get all users
 export const userlogin = async (body) => {
   const data = await User.findOne({ email: body.email });
@@ -30,10 +31,9 @@ export const newUser = async (body) => {
     throw new Error("User is already exist")
   }
   else {
-    const saltRounds = 10;
-  let hashPassword = await bcrypt.hash(body.password, saltRounds) 
-  body.password = hashPassword;
-  //console.log("After Hashing req body", body);
+  
+  const hashResult = await passwordHasher(body.password)
+  body.password = hashResult;
   const data = await User.create(body);
   return data;
   }
@@ -46,9 +46,11 @@ export const newUser = async (body) => {
 
 export const forgetPassword = async (body) => {
     const data = await User.findOne({email: body.email })
+
     if(data != null){
-      const token = jwt.sign({email:  data.email, id : data.id }, process.env.FORGET_KEY)
+      const token = jwt.sign({email:data.email, _id : data.id }, process.env.FORGET_KEY)
       const send = await mailSend(data.email, token)
+
       return send;
     }
       else{
@@ -59,10 +61,9 @@ export const forgetPassword = async (body) => {
 }
 
 export const resetPassword = async (body) => {
-  const saltRounds = 10;
-  const hash = await bcrypt.hash(body.password, saltRounds);
-  console.log('Inside Service',body.password);
-  body.password = hash;
+  
+ const hashResult = await passwordHasher(body.password)
+  body.password = hashResult;
     const data =  User.findOneAndUpdate({email: body.email, password: body.password},{new :true})
-    return data
+    return data;
 }
