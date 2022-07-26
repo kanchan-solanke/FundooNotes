@@ -1,0 +1,86 @@
+info: ::1 - - [25/Jul/2022:23:14:20 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 401 40 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:23:15:04 +0000] "POST /api/v1/users/adi@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:23:15:23 +0000] "POST /api/v1/users/adi@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:23:15:47 +0000] "POST /api/v1/users/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:23:15:51 +0000] "POST /api/v1/users/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:23:17:15 +0000] "POST /api/v1/users/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Jul/2022:23:18:04 +0000] "POST /api/v1/users/kanchansssolanke@gmail.com/forgetPassword HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:48:54 +0000] "POST /api/v1/users/kanchansssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:49:00 +0000] "POST /api/v1/users/kanchansssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:49:19 +0000] "POST /api/v1/users/kanchansssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:49:20 +0000] "POST /api/v1/users/kanchansssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:53:03 +0000] "POST /api/v1/users/kanchansssolanke@gmail.com HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:54:00 +0000] "POST /api/v1/users/email HTTP/1.1" 404 40 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:55:12 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:56:32 +0000] "POST /api/v1/users/email HTTP/1.1" 404 40 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:57:22 +0000] "POST /api/v1/users HTTP/1.1" 201 329 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:57:38 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:59:02 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:00:59:29 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:02:34 +0000] "POST /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJpZCI6IjYyZGYzYmYyYzQzMzBiMTM1YzBlZmU5NCIsImlhdCI6MTY1ODc5NzE2OX0.XIsdwmMSo3BafEwiI1eWQzFF7HgLYWzXVxIBQqUwyh0 HTTP/1.1" 500 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:03:13 +0000] "POST /api/v1/users/resetPassword HTTP/1.1" 401 40 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:04:36 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:08:17 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:10:07 +0000] "POST /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 HTTP/1.1" 500 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:10:16 +0000] "POST /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 HTTP/1.1" 500 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:11:29 +0000] "POST /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 HTTP/1.1" 500 67 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:12:10 +0000] "POST /api/v1/users/kanchanssolanke HTTP/1.1" 401 57 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:12:17 +0000] "POST /api/v1/users/kanchanssolanke HTTP/1.1" 401 57 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:12:25 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:13:10 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:14:16 +0000] "POST /api/v1/users/email HTTP/1.1" 404 40 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:14:55 +0000] "POST /api/v1/users/email HTTP/1.1" 404 40 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:15:00 +0000] "POST /api/v1/users HTTP/1.1" 201 323 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:15:17 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:15:50 +0000] "POST /api/v1/users/email HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:22:39 +0000] "POST /api/v1/users/forgetPassword HTTP/1.1" 200 58 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:26:06 +0000] "POST /api/v1/users/forgetPassword HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:38:37 +0000] "POST /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjYyZDhiMDMwMTA4MDRiMWIwMDE0NDI1YiIsImZpcnN0TmFtZSI6IktpcmFuIiwiZW1haWwiOiJraXJhbkBnbWFpbC5jb20iLCJpYXQiOjE2NTgzNjgyMzN9.BjE8geI7UMDI56VnBG1ZBCWY14guU9BY17VWKO9eQQI HTTP/1.1" 401 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:42:24 +0000] "POST /api/v1/users HTTP/1.1" 201 328 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:42:59 +0000] "POST /api/v1/users/email HTTP/1.1" 401 57 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:01:43:09 +0000] "POST /api/v1/users/email HTTP/1.1" 401 57 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Jul/2022:02:12:20 +0000] "GET /api-docs HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+
+info: ::1 - - [26/Jul/2022:02:12:20 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+

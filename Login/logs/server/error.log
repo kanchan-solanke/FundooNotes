@@ -1608,3 +1608,138 @@ Error: listen EADDRINUSE: address already in use :::4000
     at Module._compile (node:internal/modules/cjs/loader:1103:14)
     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
     at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Mon Jul 25 2022 21:08:22 GMT+0700 (Indochina Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":4000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":566042},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19047150,"external":45340610,"heapTotal":120901632,"heapUsed":89789128,"rss":156205056},"pid":11708,"uid":null,"version":"v16.14.2"},"stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (node:net:1330:16)\n    at listenInCluster (node:net:1378:12)\n    at Server.listen (node:net:1465:7)\n    at Function.listen (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js:38:5)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-07-25T14:08:22.183Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1330,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1378,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1465,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js","function":null,"line":38,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users/ 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-25T15:48:36.159Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/email 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T00:57:35.904Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:66:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:64:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:55:34) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJpZCI6IjYyZGYzYmYyYzQzMzBiMTM1YzBlZmU5NCIsImlhdCI6MTY1ODc5NzE2OX0.XIsdwmMSo3BafEwiI1eWQzFF7HgLYWzXVxIBQqUwyh0 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:02:34.838Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:66:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:64:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:55:34) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:10:07.741Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:66:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:64:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:55:34) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:10:16.319Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:66:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:64:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:55:34) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:11:29.539Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 54
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/email 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:15:11.948Z"}

@@ -1,0 +1,184 @@
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T23:14:02.969Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T23:14:03.038Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T23:17:14.252Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T23:17:14.317Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T23:17:29.520Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T23:17:29.548Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-25T23:17:54.534Z"}
+info: Connected to the database. {"timestamp":"2022-07-25T23:17:54.564Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T00:47:42.457Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T00:47:42.497Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T00:48:43.108Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T00:48:43.156Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 58
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/email 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T00:57:35.904Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:02:00.794Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:02:00.846Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:66:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:64:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:55:34) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJpZCI6IjYyZGYzYmYyYzQzMzBiMTM1YzBlZmU5NCIsImlhdCI6MTY1ODc5NzE2OX0.XIsdwmMSo3BafEwiI1eWQzFF7HgLYWzXVxIBQqUwyh0 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:02:34.838Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:03:03.357Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:03:03.384Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:08:13.935Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:08:14.017Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:09:44.504Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:09:44.553Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:66:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:64:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:55:34) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:10:07.741Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:66:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:64:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:55:34) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:10:16.319Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:11:25.918Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:11:25.974Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:66:29)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:64:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:55:34) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmM2JmMmM0MzMwYjEzNWMwZWZlOTQiLCJpYXQiOjE2NTg3OTc2OTZ9.P9xmaFCc5ZD1dGGmjnZgRrFXKtZ9F67ZV5Tx8oWpuk8 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:11:29.539Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:13:07.234Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:13:07.262Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token } in JSON at position 54
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/email 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T01:15:11.948Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:18:50.702Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:18:50.757Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:19:37.807Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:19:37.836Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:21:39.299Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:21:39.350Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:22:32.281Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:22:32.301Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:23:47.572Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:23:47.644Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:25:09.113Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:25:09.206Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:25:38.691Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:25:38.752Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:32:53.269Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:32:53.358Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:33:25.229Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:33:25.277Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:33:49.969Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:33:50.004Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:34:55.417Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:34:55.459Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:36:22.252Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:36:22.297Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:36:59.824Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:36:59.887Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:37:08.387Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:37:08.459Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:40:04.670Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:40:04.703Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T01:40:46.966Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T01:40:46.994Z"}

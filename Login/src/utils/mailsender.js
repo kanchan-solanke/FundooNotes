@@ -38,7 +38,7 @@ export async function mailSend(email, token) {
             html: '`<h1>Hello,<br><br>Click on given link to reset your password!</h1><br><h1>Link:><a href="http://localhost:${process.env.APP_PORT}api/v1/${token}">click here</a></h1>`'
         }
 
-        const result = await transport.mailSend(mailOptions)
+        const result = await transport.sendMail(mailOptions)
         return result
     }
     catch (error) {
