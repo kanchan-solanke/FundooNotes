@@ -41,7 +41,7 @@ info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T0
 info: Connected to the database. {"timestamp":"2022-07-22T01:17:22.207Z"}
 error: 
     status - 500 
-    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: ' ' }" (type Object) at path "_id" for model "Note"
     at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
     at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
     at processTicksAndRejections (node:internal/process/task_queues:96:5) 
@@ -55,7 +55,7 @@ info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-22T0
 info: Connected to the database. {"timestamp":"2022-07-22T01:18:42.294Z"}
 error: 
     status - 500 
-    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: ' ' }" (type Object) at path "_id" for model "Note"
     at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
     at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
     at processTicksAndRejections (node:internal/process/task_queues:96:5) 

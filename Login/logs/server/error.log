@@ -1394,7 +1394,7 @@ error:
    {"timestamp":"2022-07-22T01:16:29.117Z"}
 error: 
     status - 500 
-    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: ' ' }" (type Object) at path "_id" for model "Note"
     at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
     at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
     at processTicksAndRejections (node:internal/process/task_queues:96:5) 
@@ -1404,7 +1404,7 @@ error:
    {"timestamp":"2022-07-22T01:17:26.163Z"}
 error: 
     status - 500 
-    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: ' ' }" (type Object) at path "_id" for model "Note"
     at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
     at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
     at processTicksAndRejections (node:internal/process/task_queues:96:5) 
@@ -2068,3 +2068,420 @@ Error: listen EADDRINUSE: address already in use :::4000
     at Module._compile (node:internal/modules/cjs/loader:1103:14)
     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
     at Module.load (node:internal/modules/cjs/loader:981:32) {"date":"Tue Jul 26 2022 23:16:56 GMT+0700 (Indochina Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":4000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":660157},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19389527,"external":22921356,"heapTotal":178237440,"heapUsed":148190096,"rss":215420928},"pid":7424,"uid":null,"version":"v16.14.2"},"stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (node:net:1330:16)\n    at listenInCluster (node:net:1378:12)\n    at Server.listen (node:net:1465:7)\n    at Function.listen (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js:42:5)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Module._compile (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Object.newLoader [as .js] (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at Object.<anonymous> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js:176:21)\n    at Module._compile (node:internal/modules/cjs/loader:1103:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)","timestamp":"2022-07-26T16:16:56.719Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1330,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1378,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":1465,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\/index.js","function":null,"line":42,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":822,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":77,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\node\\lib\\_babel-node.js","function":null,"line":176,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1103,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1157,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":981,"method":"load","native":false}]}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzI5MzV9.ASrGefymVQa9yCqaSa4lex-ru_jfJSdy-0rgpNZ_p1Q 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:08:26.628Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:29:35.281Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:29:53.419Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:67:51)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:31:48.815Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:71:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:38:22.015Z"}
+error: 
+    status - 500 
+    message - TypeError: "data" is read-only
+    at _readOnlyError (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\readOnlyError.js:2:9)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:71:2)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:38:59.289Z"}
+error: 
+    status - 500 
+    message - TypeError: "data" is read-only
+    at _readOnlyError (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\readOnlyError.js:2:9)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:68:2)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:39:53.652Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:42:37.392Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:42:59.859Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:42)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:63:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:54:34)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:43:53.193Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:44:05.893Z"}
+error: uncaughtException: password is not defined
+ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:22)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) {"date":"Wed Jul 27 2022 05:44:57 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":683438},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":19605325,"external":46838276,"heapTotal":178495488,"heapUsed":151898376,"rss":216088576},"pid":10560,"uid":null,"version":"v16.14.2"},"stack":"ReferenceError: password is not defined\n    at _callee$ (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\utils\\/user.util.js:4:36)\n    at tryCatch (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:86:17)\n    at Generator._invoke (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:66:24)\n    at Generator.next (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:117:21)\n    at asyncGeneratorStep (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:25:9)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:32:7\n    at new Promise (<anonymous>)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:21:12\n    at passwordHasher (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\utils\\/user.util.js:2:28)\n    at _callee4$ (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\services\\/user.service.js:65:22)\n    at tryCatch (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:86:17)\n    at Generator._invoke (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:66:24)\n    at Generator.next (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js:117:21)\n    at asyncGeneratorStep (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:3:24)\n    at _next (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js:25:9)","timestamp":"2022-07-26T22:44:57.643Z","trace":[{"column":36,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\utils\\/user.util.js","function":"_callee$","line":4,"method":null,"native":false},{"column":17,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":86,"method":null,"native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator._invoke","line":66,"method":"_invoke","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":117,"method":"next","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":25,"method":null,"native":false},{"column":7,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":null,"line":32,"method":null,"native":false},{"column":null,"file":null,"function":"new Promise","line":null,"method":null,"native":false},{"column":12,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":null,"line":21,"method":null,"native":false},{"column":28,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\utils\\/user.util.js","function":"passwordHasher","line":2,"method":null,"native":false},{"column":22,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\services\\/user.service.js","function":"_callee4$","line":65,"method":null,"native":false},{"column":17,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"tryCatch","line":86,"method":null,"native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator._invoke","line":66,"method":"_invoke","native":false},{"column":21,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\regeneratorRuntime.js","function":"Generator.next","line":117,"method":"next","native":false},{"column":24,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"asyncGeneratorStep","line":3,"method":null,"native":false},{"column":9,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@babel\\runtime\\helpers\\asyncToGenerator.js","function":"_next","line":25,"method":null,"native":false}]}
+error: 
+    status - 500 
+    message - CastError: Cast to string failed for value "Promise {
+  <rejected> ReferenceError: password is not defined
+      at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+      at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+      at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+      at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+      at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+      at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+      at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+      at new Promise (<anonymous>)
+      at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+      at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+      at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:22)
+      at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+      at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+      at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+      at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+      at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+}" (type Promise) at path "password" for model "User"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:44:57.666Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:45:29.287Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:45:47.045Z"}
+error: uncaughtException: this.any is not a function
+TypeError: this.any is not a function
+    at model.root.<computed> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@hapi\joi\lib\index.js:67:25)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2305:62
+    at Array.forEach (<anonymous>)
+    at _evaluateRequiredFunctions (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2301:51)
+    at _getPathsToValidate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2317:3)
+    at model.Document.$__validate (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\document.js:2491:23)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\kareem\index.js:370:33
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) {"date":"Wed Jul 27 2022 23:02:40 GMT+0700 (Indochina Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":745701},"process":{"argv":["node","C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\src\\index.js"],"cwd":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18418134,"external":20254538,"heapTotal":119861248,"heapUsed":114257656,"rss":156905472},"pid":12208,"uid":null,"version":"v16.14.2"},"stack":"TypeError: this.any is not a function\n    at model.root.<computed> (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@hapi\\joi\\lib\\index.js:67:25)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2305:62\n    at Array.forEach (<anonymous>)\n    at _evaluateRequiredFunctions (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2301:51)\n    at _getPathsToValidate (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2317:3)\n    at model.Document.$__validate (C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js:2491:23)\n    at C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\kareem\\index.js:370:33\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","timestamp":"2022-07-27T16:02:40.518Z","trace":[{"column":25,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\@hapi\\joi\\lib\\index.js","function":"model.root.<computed>","line":67,"method":"<computed>","native":false},{"column":62,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":null,"line":2305,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":false},{"column":51,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"_evaluateRequiredFunctions","line":2301,"method":null,"native":false},{"column":3,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"_getPathsToValidate","line":2317,"method":null,"native":false},{"column":23,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\mongoose\\lib\\document.js","function":"model.Document.$__validate","line":2491,"method":"$__validate","native":false},{"column":33,"file":"C:\\Users\\kanch\\OneDrive\\Desktop\\FundooNotes\\Login\\node_modules\\kareem\\index.js","function":null,"line":370,"method":null,"native":false},{"column":11,"file":"node:internal/process/task_queues","function":"processTicksAndRejections","line":78,"method":null,"native":false}]}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e1881ca0190b13683478cf/archieveNotes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-27T19:12:51.674Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e184dd8c51ef1c84c5cb46/archieveNotes 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-27T19:16:29.983Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e184dd8c51ef1c84c5cb46/isArchieve 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-27T19:17:54.162Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e1881ca0190b13683478cf/isArchieve 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-27T19:19:15.633Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e1881ca0190b13683478cf/isArchieve 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-27T19:19:22.206Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e1881ca0190b13683478cf/isArchieve 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-27T19:19:34.066Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e1881ca0190b13683478cf/isArchieve 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-27T19:19:50.226Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e1881ca0190b13683478cf/isArchieve 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-27T19:19:56.177Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e184dd8c51ef1c84c5cb46/isArchieve 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2022-07-27T22:01:40.509Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to ObjectId failed for value "{ _id: undefined, UserID: 'kiran@gmail.com' }" (type Object) at path "_id" for model "Note"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/notes/62e184dd8c51ef1c84c5cb46/isArchieve 
+    method - PUT 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-27T22:02:47.709Z"}

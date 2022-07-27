@@ -6,3 +6,620 @@ info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T1
 info: Connected to the database. {"timestamp":"2022-07-26T17:02:59.900Z"}
 info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T17:03:24.922Z"}
 info: Connected to the database. {"timestamp":"2022-07-26T17:03:24.954Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T20:59:34.839Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T20:59:34.949Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:07:15.186Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:07:15.200Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:08:41.874Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:08:41.891Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:09:53.534Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:09:53.550Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:10:22.051Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:10:22.067Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:11:06.418Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:11:06.437Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:11:32.547Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:11:32.566Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:11:45.292Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:11:45.309Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:11:50.751Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:11:50.766Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:17:28.706Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:17:28.720Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:18:40.915Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:18:40.930Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:22:39.995Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:22:40.014Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:25:06.660Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:25:06.681Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:27:34.378Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:27:34.395Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T21:28:45.120Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T21:28:45.136Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:01:45.823Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:01:45.846Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:03:17.249Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:03:17.266Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:05:34.610Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:05:34.710Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:06:10.637Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:06:10.653Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:07:32.783Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:07:32.801Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:07:36.984Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:07:37.004Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzI5MzV9.ASrGefymVQa9yCqaSa4lex-ru_jfJSdy-0rgpNZ_p1Q 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:08:26.628Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:11:22.512Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:11:22.542Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:12:51.112Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:12:51.129Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:17:31.631Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:17:31.651Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:23:43.394Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:23:43.414Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:25:18.594Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:25:18.612Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:25:56.189Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:25:56.207Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:28:31.695Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:28:31.721Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:28:40.567Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:28:40.583Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:29:35.281Z"}
+error: 
+    status - 500 
+    message - Error: data and salt arguments required
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:137:17)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\promises.js:20:12)
+    at Object.hash (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\bcrypt\bcrypt.js:133:25)
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:31)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:29:53.419Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:30:29.780Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:30:29.798Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:31:45.738Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:31:45.756Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'email')
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:67:51)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:31:48.815Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:32:13.041Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:32:13.063Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:32:37.898Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:32:37.915Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:33:18.236Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:33:18.257Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:33:40.045Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:33:40.061Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:33:54.285Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:33:54.301Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:35:00.418Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:35:00.439Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:37:02.934Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:37:02.950Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:38:16.248Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:38:16.270Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:71:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:38:22.015Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:38:58.153Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:38:58.169Z"}
+error: 
+    status - 500 
+    message - TypeError: "data" is read-only
+    at _readOnlyError (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\readOnlyError.js:2:9)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:71:2)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:38:59.289Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:39:51.149Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:39:51.168Z"}
+error: 
+    status - 500 
+    message - TypeError: "data" is read-only
+    at _readOnlyError (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\readOnlyError.js:2:9)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:68:2)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:39:53.652Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:40:45.989Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:40:46.010Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:41:10.725Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:41:10.741Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:41:27.323Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:41:27.349Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:42:13.828Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:42:13.849Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:42:35.995Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:42:36.021Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:42:37.392Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:42:57.099Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:42:57.118Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:42:59.859Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:43:10.015Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:43:10.034Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:43:48.674Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:43:48.694Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:42)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at Object.<anonymous> (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12)
+    at Object.resetPassword (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:63:27)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\controllers\/user.controller.js:54:34)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:43:53.193Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:44:05.719Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:44:05.740Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:44:05.893Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:44:16.787Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:44:16.806Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:44:53.939Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:44:53.958Z"}
+error: 
+    status - 500 
+    message - CastError: Cast to string failed for value "Promise {
+  <rejected> ReferenceError: password is not defined
+      at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+      at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+      at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+      at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+      at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+      at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+      at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+      at new Promise (<anonymous>)
+      at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+      at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+      at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:22)
+      at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+      at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+      at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+      at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+      at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+}" (type Promise) at path "password" for model "User"
+    at model.Query.exec (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4498:21)
+    at model.Query.Query.then (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\mongoose\lib\query.js:4592:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:44:57.666Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:45:08.936Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:45:08.954Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:45:28.666Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:45:28.683Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:45:29.287Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:45:43.775Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:45:43.795Z"}
+error: 
+    status - 500 
+    message - ReferenceError: password is not defined
+    at _callee$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:4:36)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:32:7
+    at new Promise (<anonymous>)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:21:12
+    at passwordHasher (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\utils\/user.util.js:2:28)
+    at _callee4$ (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\src\services\/user.service.js:65:27)
+    at tryCatch (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:86:17)
+    at Generator._invoke (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:66:24)
+    at Generator.next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:117:21)
+    at asyncGeneratorStep (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\@babel\runtime\helpers\asyncToGenerator.js:25:9) 
+    url - /api/v1/users/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImthbmNoYW5zc29sYW5rZUBnbWFpbC5jb20iLCJfaWQiOiI2MmRmNDY4MDZjNzc2ZDE3ODhjZWNjYmUiLCJpYXQiOjE2NTg4NzA3NTB9.opWGS1ixbCcVL3-6ZKLMwRHBBHfczZnsKwFCSKbYr8E 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-26T22:45:47.045Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:46:13.867Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:46:13.888Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:46:55.870Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:46:55.891Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:47:39.169Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:47:39.191Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:48:08.780Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:48:08.804Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:48:30.260Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:48:30.280Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-26T22:49:14.254Z"}
+info: Connected to the database. {"timestamp":"2022-07-26T22:49:14.270Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T01:07:11.508Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T01:07:11.554Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T01:08:17.129Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T01:08:17.150Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T01:19:30.561Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T01:19:30.584Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T01:20:12.591Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T01:20:12.612Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T01:20:51.896Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T01:20:51.917Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T01:30:23.695Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T01:30:23.713Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T01:32:04.253Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T01:32:04.278Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T10:56:03.009Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T10:56:03.045Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T10:56:57.076Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T10:56:57.177Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T10:57:46.346Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T10:57:46.374Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T10:58:49.988Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T10:58:50.017Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:00:25.936Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:00:25.956Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:01:08.487Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:01:08.525Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:02:12.673Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:02:12.697Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:03:24.339Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:03:24.367Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:05:00.778Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:05:00.798Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:12:51.100Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:12:51.125Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:14:08.040Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:14:08.062Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:14:40.721Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:14:40.750Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:18:14.320Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:18:14.381Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:20:19.244Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:20:19.288Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:21:37.180Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:21:37.230Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:23:47.395Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:23:47.432Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T11:58:23.821Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T11:58:23.854Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T12:00:20.339Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T12:00:20.366Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T12:05:19.504Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T12:05:19.542Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T12:11:56.960Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T12:11:56.980Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T12:17:10.718Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T12:17:10.737Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T12:48:55.739Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T12:48:55.774Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T12:59:11.271Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T12:59:11.291Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:00:06.832Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:00:06.875Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:00:38.281Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:00:38.323Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:08:42.100Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:08:42.122Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:16:36.773Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:16:36.822Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:17:27.189Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:17:27.210Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:22:00.783Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:22:00.832Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:31:27.187Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:31:27.213Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:31:56.223Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:31:56.269Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:32:22.236Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:32:22.256Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:47:45.536Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:47:45.554Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:51:37.807Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:51:37.833Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:52:31.731Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:52:31.754Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:55:28.592Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:55:28.633Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:56:49.344Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:56:49.373Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T13:58:22.195Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T13:58:22.216Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:00:29.208Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:00:29.228Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:00:45.759Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:00:45.787Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:12:07.048Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:12:07.074Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:20:44.192Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:20:44.217Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:25:07.724Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:25:07.746Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:27:20.437Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:27:20.457Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:29:23.329Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:29:23.347Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:29:49.410Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:29:49.431Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:30:01.732Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:30:01.750Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:30:30.380Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:30:30.397Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:34:17.390Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:34:17.451Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:36:59.548Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:36:59.576Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:37:55.681Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:37:55.699Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:40:10.895Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:40:10.911Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:43:25.405Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:43:25.423Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T14:57:41.134Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T14:57:41.152Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:01:50.652Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:01:50.674Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:04:23.977Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:04:24.003Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:05:42.176Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:05:42.195Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:06:00.698Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:06:00.752Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:07:24.084Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:07:24.119Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:11:50.026Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:11:50.051Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:11:56.415Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:11:56.440Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:12:32.002Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:12:32.037Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:12:43.443Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:12:43.465Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:13:55.931Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:13:55.953Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:14:36.168Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:14:36.194Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:15:46.252Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:15:46.280Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:16:43.195Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:16:43.219Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:17:14.800Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:17:14.827Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:19:03.721Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:19:03.752Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:19:36.707Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:19:36.726Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:20:12.106Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:20:12.126Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:20:46.832Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:20:46.862Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:22:04.327Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:22:04.368Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:22:39.607Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:22:39.754Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:23:18.021Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:23:18.049Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:23:42.616Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:23:42.641Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:27:51.110Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:27:51.139Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:30:23.048Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:30:23.077Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:30:50.081Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:30:50.102Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:31:37.060Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:31:37.083Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:31:55.615Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:31:55.681Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:32:42.783Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:32:42.802Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:41:49.678Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:41:49.709Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:44:32.079Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:44:32.103Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:44:59.141Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:44:59.161Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:46:49.332Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:46:49.362Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:48:26.561Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:48:26.589Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:49:10.926Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:49:10.946Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:51:10.596Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:51:10.685Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:52:08.363Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:52:08.384Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:53:59.310Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:53:59.344Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:55:05.288Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:55:05.311Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:55:26.713Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:55:26.757Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:56:46.898Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:56:46.943Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:59:12.354Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:59:12.382Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T16:59:18.641Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T16:59:18.666Z"}

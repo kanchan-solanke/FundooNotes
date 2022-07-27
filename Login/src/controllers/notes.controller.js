@@ -9,7 +9,8 @@ import * as notesService from '../services/notes.service';
 
 export const addNotes = async (req, res) => {
     try {
-        const data = await notesService.addNotes(req.body.UserID);
+        const data = await notesService.addNotes(req.body);
+        console.log("addnote", req.body);
         res.status(HttpStatus.CREATED).json({
             code: HttpStatus.CREATED,
             data: data,
@@ -25,7 +26,7 @@ export const addNotes = async (req, res) => {
 
 export const getAllNotes = async (req,res) => {
     try {
-        const data = await notesService.getAllNotes(req.body.UserID);
+        const data = await notesService.getAllNotes(req.body);
         res.status(HttpStatus.OK).json({
           code: HttpStatus.OK,
           data: data,
@@ -96,7 +97,7 @@ export const getAllNotes = async (req,res) => {
 
     export const archieveNotes = async(req,res,next) =>{
       try{
-          const data = await notesService.archieveNotes(req.params.noteid,req.body.UserID);
+          const data = await notesService.archieveNotes(req.params.id,req.body.UserID);
           res.status(HttpStatus.ACCEPTED).json({
               code: HttpStatus.ACCEPTED,
               data:data,

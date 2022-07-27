@@ -39,7 +39,6 @@ export const forgetPassword = async (req, res) => {
     const data = await UserService.forgetPassword(req.body);
     res.status(HttpStatus.OK).json({
       code: HttpStatus.OK,
-      data: data,
       message: 'Email sent successfully'
     });
   } catch (error) {
@@ -56,7 +55,7 @@ try{
   res.status(HttpStatus.OK).json({
     code: HttpStatus.OK,
     data:data,
-    message: 'reset password'
+    message: 'reset password successfully'
 });
 }catch (error) {
 next(error);

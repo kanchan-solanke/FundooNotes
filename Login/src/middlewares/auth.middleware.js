@@ -1,7 +1,7 @@
 import HttpStatus from 'http-status-codes';
 import jwt from 'jsonwebtoken';
-
-/**
+import dotenv from 'dotenv';
+dotenv.config();/**
  * Middleware to authenticate if user has a valid Authorization token
  * Authorization: Bearer <token>
  *
@@ -18,20 +18,21 @@ export const userAuth = async (req, res, next) => {
         message: 'Authorization token is required'
       };
     bearerToken = bearerToken.split(' ')[1];
+    const user = await jwt.verify(bearerToken, process.env.SECRET_KEY);
+    req.body.UserID = user.data
 
-    const user  = await jwt.verify(bearerToken, process.env.SECRET_KEY);
-    req.body.UserID = user.email
     next();
   } catch (error) {
     res.status(HttpStatus.UNAUTHORIZED).json({
       code: HttpStatus.UNAUTHORIZED,
       message: `${error}`
-  });  }
+  });
+  }
 };
 
 // reset password
 
-export const resetAuth= async (req, res, next) => {
+export const resetAuth = async (req, res, next) => {
   try {
     let bearerToken = req.params.token;
     if (!bearerToken)
@@ -40,13 +41,15 @@ export const resetAuth= async (req, res, next) => {
         message: 'Invalid token'
       };
 
-    const user  = await jwt.verify(bearerToken, process.env.FORGET_KEY);
-    req.body.email = user.email
+    const user = await jwt.verify(bearerToken, process.env.FORGET_KEY);
+    
+    req.body.UserID = user.email
     next();
   } catch (error) {
     res.status(HttpStatus.UNAUTHORIZED).json({
       code: HttpStatus.UNAUTHORIZED,
       message: `${error}`
-  });  }
+    });
+  }
 };
 

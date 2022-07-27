@@ -16,7 +16,7 @@ oAuth2Client.setCredentials({ refresh_token: REFRESH_TOKEN })
 
 export async function mailSend(email, token) {
     try {
-        const accessToken = await oAuth2Client.getAccessToken()
+        const accessToken = await oAuth2Client.getAccessToken();
         const transport = nodemailer.createTransport({
             service: 'gmail',
             auth: {
@@ -31,19 +31,18 @@ export async function mailSend(email, token) {
 
         const mailOptions = {
             from: 'ProjectGmail <projectg659@gmail.com>',
-            // to:'kanchanssolanke@gmail.com',
             to: email,
             subject: 'Reset Your Password',
             text: 'Hello from gmail email using API',
-            html: '<h1>Hello from gmail email using API</h1>',
-            html: '`<h1>Hello,<br><br>Click on given link to reset your password!</h1><br><h1>Link:><a href="http://localhost:${process.env.APP_PORT}/api/v1/${token}">click here</a></h1>`'
+            html: `<h1>Hello,<br><br>Click on given link to reset your password!</h1><br><h1>Link:>
+            <a href="http://localhost:${process.env.APP_PORT}/api/v1/users/${token}">click here</a>
+            </h1>`
         }
 
-        const result = await transport.sendMail(mailOptions)
-        return result
-    }
-    catch (error) {
-        return error;
+        const result = await transport.sendMail(mailOptions);
+        return result;
+    } catch (error) {
+        return error
     }
 }
 

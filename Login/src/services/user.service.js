@@ -6,16 +6,21 @@ import { passwordHasher } from '../utils/user.util';
 //get all users
 export const userlogin = async (body) => {
   const data = await User.findOne({ email: body.email });
+
+  console.log("data", body.email)
   // return data;
+
 
   if (data == null) {
     throw new Error("User dosen't exist");
   } else {
     const result = await bcrypt.compare(body.password, data.password);
+    console.log("result", result)
     if (result) {
       const token = jwt.sign({ "Id": data._id, "firstName": data.firstName, "email": data.email }, process.env.SECRET_KEY);
-      console.log("token", token)
+      console.log("email",token);
       return token;
+
     }
     else {
       throw new Error("Invalid Passowrd");
@@ -46,7 +51,6 @@ export const newUser = async (body) => {
 
 export const forgetPassword = async (body) => {
     const data = await User.findOne({email: body.email })
-
     if(data != null){
       const token = jwt.sign({email:data.email, _id : data.id }, process.env.FORGET_KEY)
       const send = await mailSend(data.email, token)
@@ -64,6 +68,7 @@ export const resetPassword = async (body) => {
   
  const hashResult = await passwordHasher(body.password)
   body.password = hashResult;
-    const data =  User.findOneAndUpdate({email: body.email, password: body.password},{new :true})
+  return hashResult;
+ const data = await User.findOneAndUpdate({email: body.email, password: body.password},{new :true})
     return data;
 }
