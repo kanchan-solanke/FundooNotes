@@ -12,10 +12,10 @@ router.get('/allNotes',notesController.getAllNotes);
 router.post('',notesValidator,userAuth, notesController.addNotes);
 
 //update user
-router.put('/:id/update',userAuth,notesController.updateNotes);
+router.put('/:id',userAuth,notesController.updateNotes);
 
 //delete user
-router.delete('/:id/del',userAuth,notesController.deleteNotes)
+router.delete('/:id',userAuth,notesController.deleteNotes)
 
 //get a single note
 router.get('/:id',userAuth,notesController.getNote)

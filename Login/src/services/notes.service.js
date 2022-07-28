@@ -24,10 +24,10 @@ const data = await Note.findById({_id:id, UserID : UserID});
 };
 
 // update single note
-export const updateNotes = async (id,UserID,body) => {
+export const updateNotes = async (id,body) => {
     const data = await Note.findByIdAndUpdate(
         {
-            _id:id ,UserID:UserID
+            _id:id ,UserID:body.UserID
           },
           body,
           {

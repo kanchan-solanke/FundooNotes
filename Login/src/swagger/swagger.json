@@ -25,7 +25,7 @@
     "paths": {
         "/users": {
             "post": {
-                "tags": [],
+                "tags": ["Users"],
                 "description": "create name...",
                 "parameters": [
                     {
@@ -52,7 +52,7 @@
         },
         "/users/login": {
             "post": {
-                "tags": [],
+                "tags": ["Users"],
                 "description": "login name...",
                 "parameters": [
                     {
@@ -79,7 +79,7 @@
         },
         "/users/forgetPassword": {
             "post": {
-                "tags": [],
+                "tags": ["Users"],
                 "descreption": "forget password....",
                 "parameters": [
                     {
@@ -104,18 +104,23 @@
                 }
             }
         },
-    
-        "/users/resetPassword": {
+        "/users/{token}": {
             "post": {
-                "tags": [],
-                "descreption": "Reset password....",
+                "tags": ["Users"],
+                "description": "Reset Password",
                 "parameters": [
                     {
-                        "name": "Reset password",
+                        "name": "token",
+                        "in": "path",
+                        "required": true,
+                        "type": "string"
+                    },
+                    {
+                        "name": "Reset Password",
                         "in": "body",
-                        "descreption": "Reset password",
+                        "description": "resetpassword",
                         "schema": {
-                            "$ref": "#/definitions/resetPassword"
+                            "$ref": "#/definitions/resetpassword"
                         }
                     }
                 ],
@@ -123,8 +128,11 @@
                     "application/json"
                 ],
                 "responses": {
-                    "201": {
-                        "description": "Reset Password successfully"
+                    "200": {
+                        "description": "New user is created"
+                    },
+                    "401": {
+                        "description": "Internal server error"
                     },
                     "500": {
                         "description": "Internal server error"
@@ -137,7 +145,7 @@
                 ]
             }
         },
-        "/notes/{id}": {
+        "/users/{id}": {
           "get": {
             "tags": ["Notes"],
             "summary": "Get a single note by it's id",
@@ -164,38 +172,8 @@
               }
             ]
         }
-          },
-        "/notes/allNotes": {
-            "get": {
-                "tags": [],
-                "descreption": "Get all notes....",
-                "parameters": [
-                    {
-                        "name": "get all notes",
-                        "in": "Curl",
-                        "descreption": "get all notes"
-                        
-                    }
-                ],
-                "produces": [
-                    "application/json"
-                ],
-                "responses": {
-                    "201": {
-                        "description": "get all notes successfully"
-                    },
-                    "500": {
-                        "description": "Internal server error"
-                    }
-                },
-                "security": [
-                    {
-                        "JWT": []
-                    }
-                ]
-            }
-        },
-        "/notes/{id}/update": {
+          ,
+       
 
         "put": {
           "tags": ["Notes"],
@@ -232,12 +210,75 @@
               "JWT": []
             }
           ]
-        }
-        },
         
+        },
+            "delete":{
+          "tags": ["Notes"],
+          "summary": "Delete a note",
+          "produces": [],
+          "parameters": [
+            {
+              "name": "id",
+              "in": "path",
+              "required": true,
+              "type": "string"
+            },
+            {
+              "name": "delete a note",
+              "description": "delete a note",
+              "required": false
+            }
+          ],
+          "responses": {
+            "202": {
+              "description": "Note deleted succesfully"
+            },
+            "500": {
+              "description": "Internal server error"
+            }
+          },
+          "security": [
+            {
+              "JWT": []
+            }
+          ]
+        
+        }
+    },
+        "/notes/allNotes": {
+            "get": {
+                "tags": ["Notes"],
+                "descreption": "Get all notes....",
+                "parameters": [
+                    {
+                        "name": "get all notes",
+                        "in": "Curl",
+                        "descreption": "get all notes"
+                        
+                    }
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "responses": {
+                    "201": {
+                        "description": "get all notes successfully"
+                    },
+                    "500": {
+                        "description": "Internal server error"
+                    }
+                },
+                "security": [
+                    {
+                        "JWT": []
+                    }
+                ]
+            }
+        },
+
         "/notes": {
             "post": {
-                "tags": [],
+                "tags": ["Notes"],
                 "descreption": "Create a note",
                 "parameters": [
                     {
@@ -269,43 +310,10 @@
                 ]
             }
         },
-        "/notes/{id}/del": {
-            "delete":{
-          "tags": [],
-          "summary": "Delete a note",
-          "produces": [],
-          "parameters": [
-            {
-              "name": "id",
-              "in": "path",
-              "required": true,
-              "type": "string"
-            },
-            {
-              "name": "delete a note",
-              "description": "delete a note",
-              "required": false
-            }
-          ],
-          "responses": {
-            "202": {
-              "description": "Note deleted succesfully"
-            },
-            "500": {
-              "description": "Internal server error"
-            }
-          },
-          "security": [
-            {
-              "JWT": []
-            }
-          ]
-        }
-      
-    },
+        
     "/notes/{id}/isArchieve": {
         "put": {
-          "tags": [],
+          "tags": ["Notes"],
           "summary": "Archieve a note for User",
           "produces": [],
           "parameters": [
@@ -333,7 +341,7 @@
       },
       "/notes/{id}/isDeleted": {
         "put": {
-          "tags": [],
+          "tags": ["Notes"],
           "summary": "Send a note to trash",
           "produces": [],
           "parameters": [
@@ -411,14 +419,15 @@
             }
         },
     
-        "resetPassword": {
+        "resetpassword": {
             "type": "object",
             "properties": {
                 "password": {
                     "type": "string"
                 }
             }
-        },
+        }
+        ,
         "Post": {
             "type": "object",
             "properties": {

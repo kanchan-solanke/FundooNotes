@@ -344,3 +344,70 @@ info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T2
 info: Connected to the database. {"timestamp":"2022-07-27T22:49:04.207Z"}
 info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T22:57:48.956Z"}
 info: Connected to the database. {"timestamp":"2022-07-27T22:57:48.973Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-27T23:17:32.565Z"}
+info: Connected to the database. {"timestamp":"2022-07-27T23:17:32.583Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T00:48:15.417Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T00:48:15.446Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T00:48:35.181Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T00:48:35.205Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T00:48:52.088Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T00:48:52.165Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T00:50:20.807Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T00:50:20.839Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T00:50:27.334Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T00:50:27.355Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T01:06:20.213Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T01:06:20.273Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T01:07:07.478Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T01:07:07.549Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T01:09:27.867Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T01:09:27.913Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T01:10:16.587Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T01:10:16.625Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T01:12:04.431Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T01:12:04.473Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T09:57:36.669Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T09:57:36.715Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T09:58:11.330Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T09:58:11.357Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:03:41.721Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:03:41.768Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:04:51.112Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:04:51.130Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:12:06.758Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:12:06.805Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:12:44.496Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:12:44.514Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:13:08.518Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:13:08.539Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:13:19.376Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:13:19.395Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:36:10.387Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:36:10.417Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected token s in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:160:10)
+    at parse (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\types\json.js:83:15)
+    at C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:201:9)
+    at invokeCallback (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\kanch\OneDrive\Desktop\FundooNotes\Login\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:538:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/%7Btoken%7D 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-07-28T10:37:02.461Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:40:01.172Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:40:01.204Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:41:10.334Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:41:10.379Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:42:07.751Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:42:07.770Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T10:44:26.072Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T10:44:26.100Z"}
