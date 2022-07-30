@@ -1,0 +1,2626 @@
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:12:42.171Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:12:46.000Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:12:48.053Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:12:48.324Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:12:48.373Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:12:48.435Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:12:49.290Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:14:02.502Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:14:05.055Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:14:06.689Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:14:06.756Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:14:06.788Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:14:06.862Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:14:07.609Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:14:56.327Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:14:58.912Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:00.658Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:00.757Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:00.796Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:00.838Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:01.674Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:15:34.993Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:15:37.526Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:39.265Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:39.344Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:39.387Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:39.433Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:15:40.178Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:25:25.023Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:25:27.762Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:25:29.405Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:25:29.506Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:25:29.534Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:25:29.558Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:25:30.219Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:26:25.019Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:26:27.670Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:26:29.205Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:26:29.291Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:26:29.335Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:26:29.384Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:26:30.102Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:26:58.845Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:27:01.563Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:27:03.203Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:27:03.270Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:27:03.313Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:27:03.358Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:27:04.006Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:29:48.944Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:29:51.448Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:29:52.982Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:29:53.076Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:29:53.152Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:29:53.177Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:29:53.903Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:31:30.754Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:31:33.350Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:31:35.082Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:31:35.218Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:31:35.240Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:31:35.265Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:31:35.998Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:32:03.785Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:32:06.414Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:08.027Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:08.094Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:08.124Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:08.158Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:08.867Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:32:51.139Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:32:53.734Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:55.467Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:55.583Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:55.604Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:55.632Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:32:56.326Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:37:56.702Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:37:59.493Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:38:01.237Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:38:01.343Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:38:01.389Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:38:01.417Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:38:02.108Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:42:35.496Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:42:38.131Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:42:39.875Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:42:39.990Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:42:40.026Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:42:40.050Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:42:40.789Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:43:15.596Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:43:18.275Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:20.064Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:20.150Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:20.196Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:20.241Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:20.867Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:43:46.652Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:43:49.128Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:50.736Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:50.810Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:50.850Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:50.874Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:43:51.549Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:44:43.213Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:44:45.928Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:44:47.672Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:44:47.775Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:44:47.819Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:44:47.841Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:44:48.588Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:56:55.483Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:56:58.561Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:00.151Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:00.312Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:00.356Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:00.411Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:01.068Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T22:57:25.346Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T22:57:28.104Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:29.847Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:29.935Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:29.976Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:30.000Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T22:57:30.661Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:01:31.632Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:01:34.075Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:35.820Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:35.952Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:35.985Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:36.011Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:36.668Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:01:50.804Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:01:53.429Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:55.073Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:55.146Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:55.189Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:55.235Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:01:55.886Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:02:59.911Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:03:02.654Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:03:04.331Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:03:04.449Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:03:04.476Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:03:04.502Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:03:05.109Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:05:57.184Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:05:59.910Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:06:01.652Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:06:01.727Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:06:01.788Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:06:01.813Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:06:02.467Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:08:11.083Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:08:13.748Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:08:15.490Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:08:15.592Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:08:15.627Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:08:15.649Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:08:16.277Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:10:01.995Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:10:04.667Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:10:06.391Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:10:06.516Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:10:06.549Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:10:06.578Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:10:07.309Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:11:32.013Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:11:34.764Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:11:36.791Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:11:36.999Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:11:37.048Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:11:37.151Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:11:37.937Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:12:22.762Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:12:25.557Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:12:27.196Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:12:27.250Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:12:27.307Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:12:27.341Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:12:28.010Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:13:00.242Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:13:02.935Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:13:04.372Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:13:04.444Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:13:04.473Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:13:04.511Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:13:05.182Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:14:45.461Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:14:48.096Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:14:49.634Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:14:49.693Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:14:49.719Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:14:49.750Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:14:50.453Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:16:34.608Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:16:37.259Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:16:39.003Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:16:39.060Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:16:39.091Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:16:39.131Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:16:39.817Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:17:37.214Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:17:39.930Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:17:41.675Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:17:41.775Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:17:41.811Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:17:41.838Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:17:42.589Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:22:54.660Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:22:57.374Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:22:59.117Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:22:59.182Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:22:59.213Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:22:59.249Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:22:59.932Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:23:32.222Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:23:34.958Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:23:36.699Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:23:36.784Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:23:36.831Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:23:36.865Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:23:37.512Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:25:20.537Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:25:23.194Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:25:24.837Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:25:24.957Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:25:24.980Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:25:25.012Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:25:25.751Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:26:27.123Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:26:29.858Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:26:31.496Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:26:31.579Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:26:31.613Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:26:31.644Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:26:32.313Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:30:41.919Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:30:44.634Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:30:46.273Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:30:46.338Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:30:46.382Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:30:46.414Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:30:47.110Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:31:07.727Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:31:10.541Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:12.286Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:12.346Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:12.375Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:12.418Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:13.100Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:31:48.773Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:31:51.298Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:52.969Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:53.049Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:53.095Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:53.128Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:31:53.856Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:32:30.479Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:32:33.004Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:32:34.650Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:32:34.713Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:32:34.759Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:32:34.789Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:32:35.423Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:33:12.187Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:33:14.758Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:33:16.398Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:33:16.471Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:33:16.518Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:33:16.549Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:33:17.212Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-28T23:35:33.108Z"}
+info: Connected to the database. {"timestamp":"2022-07-28T23:35:35.661Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:35:37.303Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:35:37.377Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:35:37.409Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:35:37.445Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-28T23:35:38.115Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T00:56:27.325Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T00:56:29.533Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:56:30.875Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:56:31.009Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:56:31.026Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:56:31.044Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:56:31.605Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T00:57:09.885Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T00:57:11.984Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:57:13.312Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:57:13.365Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:57:13.387Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:57:13.415Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:57:13.968Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T00:58:47.841Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T00:58:49.861Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:58:51.111Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:58:51.147Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:58:51.170Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:58:51.193Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:58:51.779Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T00:59:23.288Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T00:59:25.298Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:59:26.579Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:59:26.619Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:59:26.645Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:59:26.671Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T00:59:27.223Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:00:40.269Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:00:42.336Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:00:43.642Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:00:43.680Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:00:43.704Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:00:43.751Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:00:44.310Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:02:09.504Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:02:11.517Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:02:12.778Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:02:12.812Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:02:12.829Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:02:12.851Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:02:13.383Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:11:01.362Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:11:01.477Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:12:37.302Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:12:37.321Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:18:56.067Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:18:56.099Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:21:54.305Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:21:54.351Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:22:15.581Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:22:17.972Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:22:19.414Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:22:19.524Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:22:19.546Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:22:19.577Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:22:20.130Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:25:57.067Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:25:59.132Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:00.821Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:00.843Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:00.861Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:01.415Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:01.434Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:26:42.864Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:26:44.940Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:45.963Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:46.010Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:46.052Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:46.632Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:26:46.656Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T01:27:48.115Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T01:27:50.140Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:27:50.973Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:27:50.994Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:27:51.738Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:27:51.761Z"}
+error: 
+    status - 500 
+    message - ValidationError: "lastName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T01:27:51.786Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:43:04.987Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:43:07.638Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T02:43:08.697Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:44:06.871Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:44:08.951Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:46:45.031Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:46:47.106Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:47:07.786Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:47:09.872Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:51:30.622Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T02:51:30.718Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T02:51:30.771Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:52:46.569Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T02:52:46.666Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:53:36.755Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:53:38.780Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:56:21.565Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:56:24.686Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T02:56:26.121Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:57:12.996Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:57:15.806Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T02:57:17.064Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:59:32.384Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:59:34.855Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T02:59:36.222Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T02:59:47.151Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T02:59:49.908Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T02:59:51.361Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T03:02:03.457Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T03:02:05.499Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T03:02:06.625Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T03:07:47.317Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T03:07:49.342Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T03:07:50.488Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T03:08:14.805Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T03:08:16.873Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T03:08:17.990Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T03:09:35.606Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T03:09:37.682Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T03:09:38.812Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T03:10:31.688Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T03:10:33.719Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T03:10:34.853Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T03:11:14.207Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T03:11:16.337Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T03:11:17.489Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T03:11:31.819Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T03:11:33.872Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T03:11:34.993Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T10:57:57.500Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)","syscall":"querySrv","timestamp":"2022-07-29T10:57:57.798Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T10:58:02.851Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:00:47.440Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)","syscall":"querySrv","timestamp":"2022-07-29T11:00:47.490Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:00:52.520Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:01:18.319Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)","syscall":"querySrv","timestamp":"2022-07-29T11:01:18.334Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:01:23.370Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:02:49.222Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)","syscall":"querySrv","timestamp":"2022-07-29T11:02:49.234Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:02:54.267Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:04:25.623Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)","syscall":"querySrv","timestamp":"2022-07-29T11:04:25.642Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:04:30.683Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:05:07.532Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)","syscall":"querySrv","timestamp":"2022-07-29T11:05:07.547Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:05:12.648Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:07:23.578Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)","syscall":"querySrv","timestamp":"2022-07-29T11:07:23.594Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:07:28.629Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:09:46.763Z"}
+error: Could not connect to the database. querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net {"code":"ECONNREFUSED","hostname":"_mongodb._tcp.demo.aoloa.mongodb.net","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.demo.aoloa.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:dns:213:19)","syscall":"querySrv","timestamp":"2022-07-29T11:09:46.778Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:12:02.868Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T11:12:05.859Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:13:12.745Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T11:13:15.132Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:14:19.639Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T11:14:22.156Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:16:55.268Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T11:16:57.913Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:16:59.295Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:18:01.305Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T11:18:04.063Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:18:05.441Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T11:19:00.041Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T11:19:02.639Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T11:19:03.923Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:16:04.996Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:16:07.787Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:16:09.160Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:16:46.541Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:16:49.157Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:16:50.541Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:17:09.876Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:17:12.606Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:17:14.218Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:17:34.444Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:17:37.183Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:17:38.571Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:20:00.577Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:20:03.721Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:20:05.096Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:22:01.305Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:22:04.445Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:22:05.835Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:24:42.462Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:24:45.225Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:24:46.502Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:26:56.692Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:27:00.291Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:27:01.675Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:27:52.030Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:27:54.767Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:27:56.333Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:28:24.157Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:28:26.921Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:28:28.325Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:30:00.013Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:30:02.568Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:30:03.954Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:31:01.849Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:31:04.510Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:31:05.803Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:32:00.905Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:32:03.500Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:32:04.879Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:33:47.644Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:33:50.410Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:33:51.671Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:35:51.063Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:35:53.499Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:35:54.881Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:39:18.146Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:39:20.861Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:39:22.279Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:40:00.496Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:40:03.154Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:40:04.530Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:40:32.998Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:40:35.715Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:40:36.991Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:41:03.366Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:41:06.032Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:41:07.403Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:41:32.962Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:41:35.726Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:41:37.118Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:42:39.811Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:42:42.596Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:42:43.965Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:43:01.296Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:43:04.086Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:43:05.479Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:43:39.666Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:43:42.397Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:43:43.676Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:44:17.475Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:44:20.182Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:44:21.559Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:44:42.708Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:44:45.476Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:44:46.859Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:45:10.061Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:45:12.611Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:45:13.989Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:45:26.612Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:45:29.817Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:45:31.196Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:45:51.491Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:45:54.175Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:45:55.574Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:48:18.887Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:48:21.294Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:48:22.456Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:49:41.679Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:49:44.090Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:49:45.481Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:51:04.185Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:51:06.921Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:51:08.153Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:51:20.892Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:51:23.255Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:51:24.573Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:53:10.669Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:53:13.185Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:53:14.553Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:54:42.911Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:54:45.650Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:54:47.039Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:56:20.796Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:56:23.651Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:56:41.622Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:56:44.341Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T12:58:39.939Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T12:58:42.619Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T12:58:43.863Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:13:04.188Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:13:06.574Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:13:07.883Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:15:54.206Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:15:56.971Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:15:58.167Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:18:46.640Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:18:49.006Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:18:50.397Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:19:13.600Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:19:16.039Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:19:17.418Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:20:35.784Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:20:38.404Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:20:39.618Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:21:18.961Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:21:21.791Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:21:23.070Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:24:10.020Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:24:12.717Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:24:13.910Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:25:28.464Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:25:31.241Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:25:32.621Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:27:51.389Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:27:53.890Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:27:55.273Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:29:14.749Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:29:17.242Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:29:18.628Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:30:51.592Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:30:55.444Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:30:56.637Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:31:14.830Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:31:18.131Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:31:19.372Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:33:39.004Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:33:41.643Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:33:43.027Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:34:34.818Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:34:37.555Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" must be a string 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::ffff:127.0.0.1
+   {"timestamp":"2022-07-29T13:34:38.947Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:40:36.856Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:40:39.547Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:48:59.009Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:49:01.137Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:51:26.408Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:51:28.440Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:52:59.131Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:53:01.175Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:54:45.016Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:54:47.068Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:55:23.782Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:55:25.887Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:55:57.068Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:55:59.157Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T13:57:02.855Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T13:57:04.890Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:41:32.981Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:41:35.277Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:46:31.013Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:46:33.060Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:46:48.686Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:46:48.744Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:47:08.051Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:47:08.073Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:47:11.624Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:47:11.666Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:47:24.222Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:47:26.264Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:48:24.534Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:48:24.584Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:48:31.142Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:48:31.163Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:48:38.792Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:48:40.836Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:51:07.497Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:51:07.511Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:52:15.070Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:52:15.087Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:52:21.771Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:52:23.851Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:53:28.761Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:53:28.790Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:53:57.680Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:53:57.700Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:54:02.593Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:54:02.609Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:54:19.063Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:54:21.143Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:56:42.537Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:56:42.553Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:56:55.909Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:56:57.979Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:58:08.909Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:58:08.928Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:58:23.549Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:58:23.565Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:58:37.704Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:58:39.701Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:58:59.400Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:59:01.446Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:59:10.406Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:59:10.436Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:59:27.951Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:59:27.966Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T15:59:35.734Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T15:59:37.838Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:04:03.328Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:04:05.342Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:05:03.778Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:05:03.795Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:05:09.694Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:05:09.716Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:05:26.126Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:05:28.224Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:06:53.818Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:06:53.834Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:07:03.548Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:07:05.630Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:08:33.797Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:08:33.838Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:08:48.402Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:08:50.449Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:09:56.276Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:09:56.296Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2022-07-29T16:10:11.007Z"}
+info: Connected to the database. {"timestamp":"2022-07-29T16:10:13.198Z"}

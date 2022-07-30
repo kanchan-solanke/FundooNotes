@@ -7,6 +7,7 @@ dotenv.config();
 
 describe('User', () => {
   before((done) => {
+    //for in  loop so loop continues here
     const clearCollections = () => {
       for (const collection in mongoose.connection.collections) {
         mongoose.connection.collections[collection].deleteOne(() => {});
@@ -27,10 +28,10 @@ describe('User', () => {
     done();
   });
 
-  describe('Get Users', () => {
-    it('should return empty array', async () => {
-      const result = await UserService.getAllUsers();
-      expect(result).to.be.an('array');
-    });
-  });
+  // describe('Get Users', () => {
+  //   it('should return empty array', async () => {
+  //     const result = await UserService.getAllUsers();
+  //     expect(result).to.be.an('array');
+  //   });
+  // });
 });
