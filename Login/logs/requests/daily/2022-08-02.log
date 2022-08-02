@@ -1,0 +1,32 @@
+info: ::1 - - [02/Aug/2022:15:38:34 +0000] "POST /api/v1/notes HTTP/1.1" 400 63 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:15:38:42 +0000] "POST /api/v1/users HTTP/1.1" 400 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:15:39:03 +0000] "POST /api/v1/users HTTP/1.1" 201 326 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:15:39:44 +0000] "POST /api/v1/users HTTP/1.1" 201 326 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:15:51:01 +0000] "POST /api/v1/users/login HTTP/1.1" 200 275 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:15:51:14 +0000] "POST /api/v1/allNotes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:15:51:33 +0000] "POST /api/v1/notes/allNotes HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:03:41 +0000] "GET /api/v1/notes/allNotes HTTP/1.1" 200 1559 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:04:05 +0000] "GET /api/v1/notes/allNotes HTTP/1.1" 200 1558 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:04:58 +0000] "GET /api/v1/notes/allNotes HTTP/1.1" 200 1567 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:05:04 +0000] "GET /api/v1/notes/allNotes HTTP/1.1" 200 1567 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:05:08 +0000] "GET /api/v1/notes/allNotes HTTP/1.1" 200 1567 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:05:39 +0000] "POST /api/v1/notes HTTP/1.1" 201 256 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:05:42 +0000] "POST /api/v1/notes HTTP/1.1" 201 256 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:05:44 +0000] "POST /api/v1/notes HTTP/1.1" 201 256 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [02/Aug/2022:16:05:50 +0000] "POST /api/v1/notes HTTP/1.1" 201 256 "-" "PostmanRuntime/7.29.2"
+

@@ -2,11 +2,11 @@ import express from 'express';
 import * as notesController from '../controllers/notes.controller';
 import { notesValidator } from '../validators/notes.validator';
 import { userAuth} from '../middlewares/auth.middleware'
-
+import * as redis from '../middlewares/redis.middlewear'
 const router = express.Router();
 
 //route to get all users
-router.get('/allNotes',userAuth,notesController.getAllNotes);
+router.get('/allNotes',userAuth,redis.redis_Notes,notesController.getAllNotes);
 
 //route to create a new user
 router.post('',notesValidator,userAuth, notesController.addNotes);

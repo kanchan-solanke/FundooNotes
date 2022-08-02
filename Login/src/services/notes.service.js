@@ -1,15 +1,24 @@
 import Note from '../models/notes.model';
+import { client } from '../config/redisdatabase';
+
 //create new note
 export const addNotes = async (body) => {
     const data = await Note.create(body);
-    return data;
-};
+    if(data){
+        await client.del('addNotes');
+       }
+        return data;
+    }
+    
 
 // get all note
-export const getAllNotes = async (body) => {
-    const data = await Note.find();
+export const getAllNotes = async (req) => {
+    const data = await Note.find({UserID:req.UserID});
+    if(data){
+      client.set('addNotes', JSON.stringify(data))
+    }
     return data;
-};
+}
 
 // get single note
 export const getNote = async (id,UserID) => {
