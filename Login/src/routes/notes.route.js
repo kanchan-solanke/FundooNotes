@@ -2,19 +2,18 @@ import express from 'express';
 import * as notesController from '../controllers/notes.controller';
 import { notesValidator } from '../validators/notes.validator';
 import { userAuth} from '../middlewares/auth.middleware'
-
 const router = express.Router();
 
-//route to get all users
-router.get('/allNotes',userAuth,notesController.getAllNotes);
+//route to get all notes
+router.get('/allNotes',userAuth, notesController.getAllNotes);
 
-//route to create a new user
+//route to create a new note
 router.post('',notesValidator,userAuth, notesController.addNotes);
 
-//update user
+//update note
 router.put('/:id',userAuth,notesController.updateNotes);
 
-//delete user
+//delete note
 router.delete('/:id',userAuth,notesController.deleteNotes)
 
 //get a single note

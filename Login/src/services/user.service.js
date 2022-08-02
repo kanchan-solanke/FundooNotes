@@ -3,6 +3,7 @@ import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import { mailSend } from '../utils/mailsender';
 import { passwordHasher } from '../utils/user.util';
+import { sender } from '../utils/rabbitmq';
 //get all users
 export const userlogin = async (body) => {
   const data = await User.findOne({ email: body.email });
@@ -40,6 +41,8 @@ export const newUser = async (body) => {
   const hashResult = await passwordHasher(body.password)
   body.password = hashResult;
   const data = await User.create(body);
+  var send = sender(data)
+  console.log("send",send)
   return data;
   }
 
@@ -53,7 +56,9 @@ export const forgetPassword = async (body) => {
     const data = await User.findOne({email: body.email })
     if(data != null){
       const token = jwt.sign({email:data.email, _id : data.id }, process.env.FORGET_KEY)
-      const send = await mailSend(data.email, token)
+      // const send = await mailSend(data.email, token)
+      const send = await mailSend(data.email)
+
 
       return send;
     }
